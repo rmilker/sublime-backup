@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+\$.magnificPopup.open({
+    items: {
+        src: '<div class="ne-mfp-content">' +  + '</div>',
+        type: 'inline',
+        midClick: true,
+        closeOnContentClick: true
+    },
+    mainClass: 'ne-mfp-container mfp-zoom-in',
+    callbacks: {
+        open: function() {
+        	// \$.magnificPopup.instance.content.find('')
+        }
+    }
+});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>magnific-pop</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

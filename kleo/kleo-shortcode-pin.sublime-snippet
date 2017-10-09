@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+[kleo_pin type="circle" left="" right="" top="" bottom=""]
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>kleo-shortcode-pin</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

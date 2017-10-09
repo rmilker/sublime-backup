@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["alt+super+p"],
+        "command": "autoprefixer"
+    }
+]

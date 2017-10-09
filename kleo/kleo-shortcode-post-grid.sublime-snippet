@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+ [vc_posts_grid loop="size:All|order_by:date|post_type:nem_videos|tax_query: $terms" columns="3" show_meta="yes" show_footer="yes" show_excerpt="no" el_class="" display_style="load-more" posts_per_page=""]
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>kleo-shortcode-post-grid</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

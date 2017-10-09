@@ -1,0 +1,1960 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"comm",
+				"comm-block\tComment - Block style comment"
+			],
+			[
+				"comm-",
+				"comma-separated\t(bp-activity-functions.php)"
+			],
+			[
+				"wp-query",
+				"wp-query-args"
+			],
+			[
+				"wp_query",
+				"WP_Query\tWP Class Name"
+			],
+			[
+				"wp_query-",
+				"WP_Query-__isset\tWP Class Method"
+			],
+			[
+				"wp-",
+				"wp_ajax_nopriv_item-likes\t(item-likes.php)"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"queried",
+				"queried_object_slug"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"comm-sec",
+				"comm-section-header\tComment - Section header comment"
+			],
+			[
+				"magni",
+				"magnificPopup\t(nem-scripts.js)"
+			],
+			[
+				"addL",
+				"addClass\t.addClass()"
+			],
+			[
+				"prevent",
+				"preventDefault\t(nem-scripts.js)"
+			],
+			[
+				"bs3-col",
+				"bs3-col:6\tbs3-col-6"
+			],
+			[
+				"nem_maga",
+				"nem_magazine_issues"
+			],
+			[
+				"tax",
+				"tax_query"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"each",
+				"each\t.each()"
+			],
+			[
+				"magnifi",
+				"magnificPopup"
+			],
+			[
+				"tranfo",
+				"transform"
+			],
+			[
+				"transla",
+				"translate()"
+			],
+			[
+				"tranf",
+				"transform"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"rgba",
+				"rgba(255,255,255\t(app.css)"
+			],
+			[
+				"on",
+				"onclick\t(ne-common.js)"
+			],
+			[
+				"data-toggel",
+				"data-toggle=\"tooltip"
+			],
+			[
+				"progr",
+				"program_url"
+			],
+			[
+				"wp_get_",
+				"wp_get_attachment_image_src\t(functions.php)"
+			],
+			[
+				"portfol",
+				"portfolio-category"
+			],
+			[
+				"viewP",
+				"viewportDimensions\t(ne-common.js)"
+			],
+			[
+				"magnif",
+				"magnific-pop\t(magnific-pop.sublime-snippet)"
+			],
+			[
+				"program_mi",
+				"program_image_id"
+			],
+			[
+				"wp_get_att",
+				"wp_get_attachment_image_src\t(content-single-product-modal.php)"
+			],
+			[
+				"current",
+				"currentCrsl"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"flex-",
+				"flex-direction"
+			],
+			[
+				"esc_h",
+				"esc_html_e"
+			],
+			[
+				"__",
+				"__(\"All"
+			],
+			[
+				"var_du",
+				"var_dump"
+			],
+			[
+				"kleo_get",
+				"kleo_get_post_media\t(theme-functions.php)"
+			],
+			[
+				"program",
+				"program_meta"
+			],
+			[
+				"comm-html",
+				"comm-html-section\tComment - HTML section"
+			],
+			[
+				"nth",
+				"nth-child()"
+			],
+			[
+				"short",
+				"shortcode\tShortcode"
+			],
+			[
+				"border-left-",
+				"border-left-width"
+			],
+			[
+				"use",
+				"uses\t@uses"
+			],
+			[
+				"ver",
+				"vertical-align\t(ne-common.css)"
+			],
+			[
+				"load",
+				"load\t.load()"
+			],
+			[
+				"get_curre",
+				"get_current_blog_id"
+			],
+			[
+				"esc",
+				"esc_html_e\t(theme-functions.php)"
+			],
+			[
+				"wp_enquee",
+				"wp_enqueue_script"
+			],
+			[
+				"get_the_cate",
+				"get_the_category_list"
+			],
+			[
+				"the_category",
+				"the_category_list"
+			],
+			[
+				"get_cate",
+				"get_categories\t(theme-functions.php)"
+			],
+			[
+				"nem_mga",
+				"nem_magazine_issues"
+			],
+			[
+				"nem_",
+				"nem_magazine_issues\t(post-content-carousel.php)"
+			],
+			[
+				"com-s",
+				"comm-subsection\tComment - Subsection comment"
+			],
+			[
+				"comm-se",
+				"comm-section-header\tComment - Section header comment"
+			],
+			[
+				"get_tax",
+				"get_taxonomy"
+			],
+			[
+				"setup",
+				"setup_postdata\t(functions.php)"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"wp_send",
+				"wp_send_json_error"
+			],
+			[
+				"replac",
+				"replaceWith\t.replaceWith()"
+			],
+			[
+				"soci",
+				"socio-economics-ecology"
+			],
+			[
+				"stadn",
+				"standard-listing"
+			],
+			[
+				"border-rad",
+				"border-radius"
+			],
+			[
+				"image",
+				"imagesLoaded"
+			],
+			[
+				"tar",
+				"target_blank"
+			],
+			[
+				"border-radi",
+				"border-bottom-right-radius"
+			],
+			[
+				"data",
+				"data_type"
+			],
+			[
+				"comments",
+				"commentsBox"
+			],
+			[
+				"click",
+				"click"
+			],
+			[
+				"clikc",
+				"click"
+			],
+			[
+				"ob_",
+				"ob_get_clean"
+			],
+			[
+				"nopriv",
+				"wp_ajax_nopriv_"
+			],
+			[
+				"ajax",
+				"ajax\t$.ajax()"
+			],
+			[
+				"prev",
+				"prev_orderby"
+			],
+			[
+				"preve",
+				"preventDefault"
+			],
+			[
+				"bs3-group",
+				"bs3-group-radio\tbs3-group-radio"
+			],
+			[
+				"layout",
+				"layout_switched"
+			],
+			[
+				"resource",
+				"resource_icons_map"
+			],
+			[
+				"get_page_by",
+				"get_page_by_title\t(post.php)"
+			],
+			[
+				"bs3-gr",
+				"bs3-group\tbs3-button-group"
+			],
+			[
+				"bs3-grou",
+				"bs3-group-radio\tbs3-group-radio"
+			],
+			[
+				"assoc",
+				"array_diff_assoc"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"lazy",
+				"lazy_grid"
+			],
+			[
+				"max_",
+				"max_num_pages"
+			],
+			[
+				"wp_euq",
+				"wp_enqueue\tWordPress: Enqueue a script"
+			],
+			[
+				"enqueue_scrip",
+				"wp_enqueue_scripts"
+			],
+			[
+				"ease",
+				"easeOutQuad\t(app.js)"
+			],
+			[
+				"action",
+				"add_action"
+			],
+			[
+				"wp_send_js",
+				"wp_send_json_error"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"view",
+				"viewportDimensions"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"register_post",
+				"register_post_type\tRegister Post Type All Options"
+			],
+			[
+				"school",
+				"school_element"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"wp_send_",
+				"wp_send_json_success\t(class-wp-customize-nav-menus.php)"
+			],
+			[
+				"school_",
+				"school_page_box"
+			],
+			[
+				"Cuzt",
+				"Cuztom_Post_Type"
+			],
+			[
+				"get_post",
+				"get_post_meta"
+			],
+			[
+				"groups_get_grou",
+				"groups_get_groupmeta\t(filters.php)"
+			],
+			[
+				"has_term",
+				"has_term"
+			],
+			[
+				"wp_json",
+				"wp_send_json_success\t(plugin-geomywp.php)"
+			],
+			[
+				"gmaps-form-wra",
+				"gmaps-form-wrapper-4"
+			],
+			[
+				"vertic",
+				"vertical-align"
+			],
+			[
+				"check",
+				"checkbox_fields"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"tiny",
+				"tinyMCELoad"
+			],
+			[
+				"bp_current",
+				"bp_current_item\t(bp-core-template.php)"
+			],
+			[
+				"screen",
+				"screen_function"
+			],
+			[
+				"array_wa",
+				"array_walk_recursive"
+			],
+			[
+				"addfil",
+				"add_filtes"
+			],
+			[
+				"school_membership",
+				"school_membership_end_date"
+			],
+			[
+				"WP_DEBUG_",
+				"WP_DEBUG_LOG"
+			],
+			[
+				"number",
+				"number_format_i18n"
+			],
+			[
+				"members",
+				"membership_end_date"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/plugins/buddypress/bp-activity/bp-activity-functions.php",
+			"settings":
+			{
+				"buffer_size": 124291,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child/functions.php",
+			"settings":
+			{
+				"buffer_size": 15401,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "push",
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"qui",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"a",
+				"Git: Add..."
+			],
+			[
+				"pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"Snippet: magni",
+				"Snippet: magnific-pop"
+			],
+			[
+				"gitadd",
+				"Git: Add..."
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"aa",
+				"Git: Add All"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"QUI",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"AD",
+				"Git: Add..."
+			],
+			[
+				"ads",
+				"Git: Add Selected Hunk"
+			],
+			[
+				"qu",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"q",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"adf",
+				"Project: Add Folder"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"g",
+				"Git: Init"
+			],
+			[
+				"pul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"pu",
+				"Git: Pull"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: bs3-group",
+				"Snippet: bs3-group-checkbox"
+			],
+			[
+				"intsall",
+				"Package Control: Install Package"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"commit",
+				"Git: Amend Commit"
+			],
+			[
+				"a\\",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit"
+			],
+			[
+				"git pu",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git r",
+				"Git: Track Remote Branch"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 725.0
+	},
+	"console":
+	{
+		"height": 311.0,
+		"history":
+		[
+			"git init",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-neu"
+	],
+	"file_history":
+	[
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/library-functions.php",
+		"/C/Users/Roman/Google Drive/DEV/snippets/buddypress/add_profile_subnav_dropdown.php",
+		"/C/Users/Roman/Google Drive/DEV/snippets/js/form_auto_format_numbers.js",
+		"/C/Users/Roman/Google Drive/DEV/snippets/buddypress/nav_items.php",
+		"/C/Users/Roman/Google Drive/DEV/snippets/php/wp_load_dir_scripts.php",
+		"/C/Users/Roman/Google Drive/DEV/snippets/buddypress/notifications.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/plugins/buddypress/bp-groups/bp-groups-notifications.php",
+		"/C/Users/Roman/Google Drive/DEV/snippets/buddypress/custom_post_type_action.php",
+		"/C/Users/Roman/Google Drive/DEV/snippets/buddypress/activity.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child/includes/communities/actions.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-neu/includes/shortcodes.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-neu/assets/js/neu-library.js",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-neu/style.css",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-neu/includes/library-functions.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-neu/page-parts/post-content-lib-small.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-neu/page-parts/post-content-lib-masonry.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-neu/includes/custom-posts-and-meta.php",
+		"/C/Users/Roman/Google Drive/DEV/snippets/php/check_gif_animation.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child/includes/buddypress/activity-posts.php",
+		"/C/Users/Roman/Google Drive/DEV/snippets/buddypress/activity-posts (plugin).php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child/includes/buddypress/functions.php",
+		"/C/Users/Roman/Downloads/Native Instruments.Kontakt.5.v5.6.1.UNLOCKED.Incl.Keygen-R2R/R2R.nfo",
+		"/C/Users/Roman/Documents/Native Instruments/Kontakt 5/libraries/Synferno The Beat Community Edition/The Beat Community Edition.nicnt",
+		"/C/Users/Roman/AppData/Roaming/Sublime Text 3/Packages/User/js/magnific-pop.sublime-snippet",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/assets/templates/vc_templates/vc_posts_grid.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/assets/js/ajax-processing.js",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-nem/includes/custom-posts-and-meta.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo/archive.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo/assets/css/app.css",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/assets/js/ne-common.js",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/assets/css/ne-common.css",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-nem/includes/permalinks.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo/assets/css/fontello.css",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-nem/style.css",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-nem/page-parts/post-content-program-playlist.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-nem/taxonomy-programs.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo/assets/js/app.js",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo/page-parts/posts-social-share.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child/page-parts/community-masonry.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-nem/assets/js/nem-scripts.js",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-nem/assets/js/tv-js.js",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-nem/assets/js/magazines-js.js",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo/lib/theme-functions.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo/single-portfolio.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-nem/page-parts/content-video.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo/functions.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-nem/single-nem_videos.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-nem/content-nem-video.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/assets/css/ne-common-responsive.css",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-nef/style.css",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-nem/functions.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child/includes/events/js/ne-events.js",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-nem/content-mag-scroll.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-nem/single-nem_magazine_issues.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-nem/content-magazine-issue.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo/lib/item-likes.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo/buddypress/buddypress-functions.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-nem/includes/shortcodes.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/debug.log",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-config.php",
+		"/F/web_dev/resume/css/style.css",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/blockfooter.thtml",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/checkMember.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/membership_reminder.php",
+		"/F/web_dev/resume/index.html",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/siteconfig.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/lib-common.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/lib-custom.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/php_mail.log",
+		"/C/Users/Roman/Downloads/DAEMON.Tools.Lite.v10.3.0.152.cracked-REiS/DAEMON.Tools.Lite.v10.3.0.152.cracked-REiS/REiS.nfo",
+		"/C/Users/Roman/Downloads/Native Instruments RISE and HIT KONTAKT DVDR-SYNTHiC4TE [deepstatus]/SYNTHiC4TE.nfo",
+		"/C/Users/Roman/Desktop/kontakt/Tracer.nfo",
+		"/C/Users/Roman/Downloads/Image-Line.FL.Studio.Producer.Edition.v12.4.Incl.Keygen-R2R/R2R.nfo",
+		"/C/Users/Roman/AppData/Roaming/Sublime Text 3/Packages/User/kleo/kleo-shortcode-post-grid.sublime-snippet",
+		"/C/Users/Roman/AppData/Roaming/Sublime Text 3/Packages/User/kleo/kleo-icon-tooltip.sublime-snippet",
+		"/C/Users/Roman/AppData/Roaming/Sublime Text 3/Packages/User/kleo/kleo-single.sublime-snippet",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/assets/php/theme-functions.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/debug.log",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/dev.newearthnation.org.access.log.1",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/plugins/post-views-counter/includes/functions.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo/assets/js/init.js",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child/assets/js/bp-like.js",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child/assets/js/nec-scripts.js",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child/assets/js/nec-search.js",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-nep/assets/js/nep-scripts.js",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/assets/php/widgets.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo/assets/js/plugins/carouFredSel/jquery.carouFredSel-6.2.0.js",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-nef/includes/widgets.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo/page-parts/post-content-carousel.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-nef/widgets.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-includes/category-template.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo/lib/portfolio.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-nef/functions.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-includes/category.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/plugins/js_composer/include/classes/core/class-wpb-map.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-includes/media.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo/lib/aq_resizer.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/plugins/k-elements/functions/helpers.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-nem/page-parts/post-content-small-upcoming-shows.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo/featured-content.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo/woocommerce/content-single-product-modal.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo/page-parts/posts-related.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-includes/post.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-includes/post-formats.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-nem/page-parts/post-content-masonry-overlay.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo/vc_templates/vc_gallery.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo/kleo-framework/lib/function-core.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-neu/assets/js/neu-scripts.js",
+		"/C/Users/Roman/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/C/Users/Roman/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/functions.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-includes/template.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-includes/general-template.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child/assets/css/bp-custom.css",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo/lib/menu-walker.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child/buddypress/groups/single/community-front.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child/content-event-header.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child/bbpress/form-reply.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child/includes/communities/plugin-geomywp.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-includes/ms-blogs.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-includes/load.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/plugins/wysija-newsletters/views/front/widget_nl.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child-neu/single-neu_school.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-includes/shortcodes.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-includes/taxonomy.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/uploads/wysija/css/iframe.css",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/assets/templates/page-parts/post-content-masonry-overlay.php"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\plugins\\buddypress",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-nem",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\assets",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-nem",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-nem",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-nem",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-nem",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-nem",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-nem",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-nep",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-neu",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-chil",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-nem",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-nem",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-neu",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-nem",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo\\assets",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\plugins\\k-elements",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo\\kleo-framework",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo\\vc_templates",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo\\lib",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\plugins\\k-elements",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-neu",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-nem",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-nem",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\assets",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-nem",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-nem",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\assets",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-nem",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-nem",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-neu",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-neu",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-neu",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-neu",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\assets",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-neu",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\plugins\\wysija-newsletters",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\plugins",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\assets",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-neu",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-nem",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\plugins\\post-views-counter",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\plugins",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\assets",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\plugins\\buddypress-media",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-neu",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-neu",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-neu",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-neu",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\assets",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-neu",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-neu",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-neu",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\plugins\\k-elements",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child-neu",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\newearthnation\\wp-content\\themes\\kleo"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Filters plugin-added group-related custom component_actions.",
+			"kleo",
+			"nen_community_followers_filter",
+			"nen_community_members_template_part",
+			"bp_get_group_class",
+			"nen_community_action_join_group",
+			"post_",
+			"bp_activity",
+			"blog_post",
+			"kleo_entry_meta",
+			"final_query",
+			"kleo_entry_meta",
+			"neu_resource",
+			"lib_query",
+			"neu-library-orderby",
+			"neu_tag_search",
+			"<input",
+			"search_tag",
+			"tag",
+			"show_tag_cloud",
+			"tagCloudTrigger",
+			"roman",
+			"romanm",
+			"dates",
+			"cron",
+			"process_result",
+			"WEBMAIL",
+			"cron",
+			"$_CONF['cron_schedule_interval']",
+			"theisla",
+			"path_system",
+			"$_TABLES",
+			"path_html",
+			"theisla",
+			"_CONF",
+			"shortcode",
+			"post_grid",
+			"vc_grid",
+			"data-toggle=\"tooltip\"",
+			"data-original",
+			"icon-",
+			"hover-pop",
+			"hover",
+			"popover",
+			"$link",
+			"nem_episode_grid_theater_mode",
+			".single-nem_magazine_issues",
+			"pdf_url",
+			"';\n",
+			"dropdownHover",
+			"dropdown-menu",
+			"magazine-staff-popup",
+			"staff",
+			"magazine-issue-embed",
+			"_download",
+			"episode-headi",
+			"episode",
+			".single-nem_videos",
+			"episode",
+			"([^/]+)/?$\n",
+			"index.php?nem_magazine=$matches[1]",
+			"index.php?nem_magazine",
+			"nem_magazine",
+			"500",
+			"mfp-hide",
+			"#episode-heading-sec",
+			"single-nem_videos",
+			"heading-sec",
+			"episode-video-sec",
+			"auto",
+			"nem-magazine-issue-embed",
+			"wp_embed",
+			"substring",
+			"magazine_scroll_end",
+			"post_container.after(\"<div id='ne-loader'><div></div><div></div><div></div></div>\");\t",
+			"ne-loader",
+			"mag_",
+			"offset",
+			"grep",
+			"magazine",
+			"issue_id",
+			"nem_get_mag_embed_html",
+			"program",
+			"nem_theater_load_more_episodes",
+			"nem-magazine",
+			"done",
+			"$(document)",
+			"kleo_oembed_video",
+			"kleo-video-embed",
+			"video-container",
+			"fitvids",
+			"$args['post_id']",
+			"fluid-width-video-wrap",
+			"fluid-width-video-wraper",
+			"kleo-video-embed",
+			"fluid-width-video-wrapper",
+			"fitVids",
+			"parse_video_uri",
+			"get_video_thumbnail_uri",
+			"default",
+			"load",
+			"pdf",
+			"download",
+			"'tax_query' ",
+			"magazine",
+			"'taxonomy' => 'magazines'",
+			"YT",
+			"0",
+			"kleo-scroll-to",
+			".btn:hover",
+			"scroll",
+			"scroll-fx",
+			"transparent_menu_color",
+			"_kleo_transparent_menu_color",
+			"color",
+			"#ne-loader",
+			"loading",
+			"fx",
+			"nem-program-grid-wra",
+			"Latest",
+			"Latest E",
+			"nem-program-grid-wrap",
+			"filter",
+			"classes",
+			"substring",
+			"class",
+			"DEFINE",
+			"DOING_AJAX"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"episode-actions",
+			"neu-library-search-category",
+			"neu_member",
+			"_school_id",
+			"schools",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/plugins/buddypress/bp-activity/bp-activity-functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 124291,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 264.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child/functions.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 15401,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								196
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 265.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 154.0
+	},
+	"pinned_build_system": "",
+	"project": "NewEarth.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"style",
+				"wp-content\\themes\\kleo-child-neu\\style.css"
+			],
+			[
+				"nem/func",
+				"wp-content\\themes\\kleo-child-nem\\functions.php"
+			],
+			[
+				"nem/content",
+				"wp-content\\themes\\kleo-child-nem\\content-magazine-issue.php"
+			],
+			[
+				"nem/st",
+				"wp-content\\themes\\kleo-child-nem\\style.css"
+			],
+			[
+				"tv-js",
+				"wp-content\\themes\\kleo-child-nem\\assets\\js\\tv-js.js"
+			],
+			[
+				"nem/fu",
+				"wp-content\\themes\\kleo-child-nem\\functions.php"
+			],
+			[
+				"app.",
+				"wp-content\\themes\\kleo\\assets\\js\\app.js"
+			],
+			[
+				"ne-co",
+				"wp-content\\assets\\css\\ne-common.css"
+			],
+			[
+				"magaz",
+				"wp-content\\themes\\kleo-child-nem\\assets\\js\\magazines-js.js"
+			],
+			[
+				"nem/s",
+				"wp-content\\themes\\kleo-child-nem\\style.css"
+			],
+			[
+				"magazine",
+				"wp-content\\themes\\kleo-child-nem\\assets\\js\\magazines-js.js"
+			],
+			[
+				"nem/style",
+				"wp-content\\themes\\kleo-child-nem\\style.css"
+			],
+			[
+				"ne-c",
+				"wp-content\\assets\\css\\ne-common.css"
+			],
+			[
+				"nem/sho",
+				"wp-content\\themes\\kleo-child-nem\\includes\\shortcodes.php"
+			],
+			[
+				"nem/fun",
+				"wp-content\\themes\\kleo-child-nem\\functions.php"
+			],
+			[
+				"nem/nem-sc",
+				"wp-content\\themes\\kleo-child-nem\\assets\\js\\nem-scripts.js"
+			],
+			[
+				"nem/sty",
+				"wp-content\\themes\\kleo-child-nem\\style.css"
+			],
+			[
+				"app.js",
+				"wp-content\\themes\\kleo\\assets\\js\\app.js"
+			],
+			[
+				"app.css",
+				"wp-content\\themes\\kleo\\assets\\css\\app.css"
+			],
+			[
+				"fonte",
+				"wp-content\\themes\\kleo\\assets\\css\\fontello.css"
+			],
+			[
+				"shortco",
+				"wp-content\\themes\\kleo-child-neu\\includes\\shortcodes.php"
+			],
+			[
+				"ne-comm",
+				"wp-content\\assets\\css\\ne-common.css"
+			],
+			[
+				"perma",
+				"wp-content\\themes\\kleo-child-nem\\includes\\permalinks.php"
+			],
+			[
+				"taxoom",
+				"wp-content\\themes\\kleo-child-nem\\taxonomy-programs.php"
+			],
+			[
+				"app.cs",
+				"wp-content\\themes\\kleo\\assets\\css\\app.css"
+			],
+			[
+				"nem/styl",
+				"wp-content\\themes\\kleo-child-nem\\style.css"
+			],
+			[
+				"ne-com",
+				"wp-content\\assets\\css\\ne-common-responsive.css"
+			],
+			[
+				"nec-s",
+				"wp-content\\themes\\kleo-child\\assets\\js\\nec-scripts.js"
+			],
+			[
+				"taxonom",
+				"wp-content\\themes\\kleo-child-nem\\taxonomy-programs.php"
+			],
+			[
+				"nem-",
+				"wp-content\\themes\\kleo-child-nem\\assets\\js\\nem-scripts.js"
+			],
+			[
+				"single-nem_",
+				"wp-content\\themes\\kleo-child-nem\\single-nem_videos.php"
+			],
+			[
+				"nem/nems-",
+				"wp-content\\themes\\kleo-child-nem\\assets\\js\\nem-scripts.js"
+			],
+			[
+				"fontell",
+				"wp-content\\themes\\kleo\\assets\\css\\fontello.css"
+			],
+			[
+				"single-nem",
+				"wp-content\\themes\\kleo-child-nem\\single-nem_videos.php"
+			],
+			[
+				"fontello",
+				"wp-content\\themes\\kleo\\assets\\css\\fontello.css"
+			],
+			[
+				"style.",
+				"wp-content\\themes\\kleo-child-nem\\style.css"
+			],
+			[
+				"custom-posts",
+				"wp-content\\themes\\kleo-child-nem\\includes\\custom-posts-and-meta.php"
+			],
+			[
+				"ajax-p",
+				"wp-content\\assets\\js\\ajax-processing.js"
+			],
+			[
+				"nef/includes/",
+				"wp-content\\themes\\kleo-child-nef\\includes\\widgets.php"
+			],
+			[
+				"nem-sc",
+				"wp-content\\themes\\kleo-child-nem\\assets\\js\\nem-scripts.js"
+			],
+			[
+				"widgets.php",
+				"wp-content\\assets\\php\\widgets.php"
+			],
+			[
+				"nem-scr",
+				"wp-content\\themes\\kleo-child-nem\\assets\\js\\nem-scripts.js"
+			],
+			[
+				"neu-li",
+				"wp-content\\themes\\kleo-child-neu\\assets\\js\\neu-library.js"
+			],
+			[
+				"masonry-ov",
+				"wp-content\\themes\\kleo-child-nem\\page-parts\\post-content-masonry-overlay.php"
+			],
+			[
+				"taxonomy-",
+				"wp-content\\themes\\kleo-child-nem\\taxonomy-programs.php"
+			],
+			[
+				"nem-s",
+				"wp-content\\themes\\kleo-child-nem\\assets\\js\\nem-scripts.js"
+			],
+			[
+				"taxo",
+				"wp-content\\themes\\kleo-child-nem\\taxonomy-programs.php"
+			],
+			[
+				"post-and",
+				"wp-content\\themes\\kleo-child-nem\\includes\\custom-posts-and-meta.php"
+			],
+			[
+				"taxon",
+				"wp-content\\themes\\kleo-child-nem\\taxonomy-programs.php"
+			],
+			[
+				"fontello.",
+				"wp-content\\themes\\kleo\\assets\\css\\fontello.css"
+			],
+			[
+				"taxono",
+				"wp-content\\themes\\kleo-child-nem\\taxonomy-programs.php"
+			],
+			[
+				"program-play",
+				"wp-content\\themes\\kleo-child-nem\\page-parts\\post-content-program-playlist.php"
+			],
+			[
+				"ne-common.js",
+				"wp-content\\assets\\js\\ne-common.js"
+			],
+			[
+				"single-nem_v",
+				"wp-content\\themes\\kleo-child-nem\\single-nem_videos.php"
+			],
+			[
+				"nem/stl",
+				"wp-content\\themes\\kleo-child-nem\\style.css"
+			],
+			[
+				"fontello.c",
+				"wp-content\\themes\\kleo\\assets\\css\\fontello.css"
+			],
+			[
+				"nems",
+				"wp-content\\themes\\kleo-child-nem\\assets\\js\\nem-scripts.js"
+			],
+			[
+				"nem/functi",
+				"wp-content\\themes\\kleo-child-nem\\functions.php"
+			],
+			[
+				"nem/function",
+				"wp-content\\themes\\kleo-child-nem\\functions.php"
+			],
+			[
+				"nem-j",
+				"wp-content\\themes\\kleo-child-nem\\assets\\js\\nem-scripts.js"
+			],
+			[
+				"and-meta",
+				"wp-content\\themes\\kleo-child-nem\\includes\\custom-posts-and-meta.php"
+			],
+			[
+				"shortc",
+				"wp-content\\themes\\kleo-child-nem\\includes\\shortcodes.php"
+			],
+			[
+				"shortcodes",
+				"wp-content\\themes\\kleo-child-neu\\includes\\shortcodes.php"
+			],
+			[
+				"shortcode",
+				"wp-content\\themes\\kleo-child-neu\\includes\\shortcodes.php"
+			],
+			[
+				"ne-common",
+				"wp-content\\assets\\css\\ne-common.css"
+			],
+			[
+				"bp-custom",
+				"wp-content\\themes\\kleo-child\\assets\\css\\bp-custom.css"
+			],
+			[
+				"nem/short",
+				"wp-content\\themes\\kleo-child-nem\\includes\\shortcodes.php"
+			],
+			[
+				"short",
+				"wp-content\\themes\\kleo-child-neu\\includes\\shortcodes.php"
+			],
+			[
+				"stylec.",
+				"wp-content\\themes\\kleo-child-nem\\style.css"
+			],
+			[
+				"librar",
+				"wp-content\\themes\\kleo-child-neu\\includes\\library-functions.php"
+			],
+			[
+				"library-",
+				"wp-content\\themes\\kleo-child-neu\\includes\\library-functions.php"
+			],
+			[
+				"nem/fi",
+				"wp-content\\themes\\kleo-child-nem\\functions.php"
+			],
+			[
+				"ajax-",
+				"wp-content\\assets\\js\\ajax-processing.js"
+			],
+			[
+				"app.c",
+				"wp-content\\themes\\kleo\\assets\\css\\app.css"
+			],
+			[
+				"ne-",
+				"wp-content\\assets\\css\\ne-common.css"
+			],
+			[
+				"style.c",
+				"wp-content\\themes\\kleo-child-neu\\style.css"
+			],
+			[
+				"neu-lib",
+				"wp-content\\themes\\kleo-child-neu\\assets\\js\\neu-library.js"
+			],
+			[
+				"neu-s",
+				"wp-content\\themes\\kleo-child-neu\\assets\\js\\neu-scripts.js"
+			],
+			[
+				"lib-fun",
+				"wp-content\\themes\\kleo-child-neu\\includes\\library-functions.php"
+			],
+			[
+				"neu-sc",
+				"wp-content\\themes\\kleo-child-neu\\assets\\js\\neu-scripts.js"
+			],
+			[
+				"ne-coo",
+				"wp-content\\assets\\css\\ne-common.css"
+			],
+			[
+				"permali",
+				"wp-content\\themes\\kleo-child-neu\\includes\\permalinks.php"
+			],
+			[
+				"general-head",
+				"wp-content\\assets\\templates\\general-header-section.php"
+			],
+			[
+				"functions",
+				"wp-content\\themes\\kleo-child-neu\\functions.php"
+			],
+			[
+				"functions.php",
+				"wp-content\\themes\\kleo-child-nem\\functions.php"
+			],
+			[
+				"ne-como",
+				"wp-content\\assets\\css\\ne-common.css"
+			],
+			[
+				"style.cs",
+				"wp-content\\themes\\kleo-child-neu\\style.css"
+			],
+			[
+				"lib-f",
+				"wp-content\\themes\\kleo-child-neu\\includes\\library-functions.php"
+			],
+			[
+				"theme-func",
+				"wp-content\\themes\\kleo\\lib\\theme-functions.php"
+			],
+			[
+				"plugin-gra",
+				"wp-content\\assets\\php\\plugin-gravity-forms.php"
+			],
+			[
+				"neu-scr",
+				"wp-content\\themes\\kleo-child-neu\\assets\\js\\neu-scripts.js"
+			],
+			[
+				"neu-",
+				"wp-content\\themes\\kleo-child-neu\\assets\\js\\neu-scripts.js"
+			],
+			[
+				"ne-commo",
+				"wp-content\\assets\\css\\ne-common.css"
+			],
+			[
+				"neus-",
+				"wp-content\\themes\\kleo-child-neu\\assets\\js\\neu-scripts.js"
+			],
+			[
+				"neus",
+				"wp-content\\themes\\kleo-child-neu\\assets\\js\\neu-scripts.js"
+			],
+			[
+				"func",
+				"wp-content\\themes\\kleo-child-neu\\functions.php"
+			],
+			[
+				"custom-post",
+				"wp-content\\themes\\kleo-child-neu\\includes\\custom-posts-and-meta.php"
+			],
+			[
+				"funct",
+				"wp-content\\themes\\kleo-child-neu\\functions.php"
+			],
+			[
+				"custom-pos",
+				"wp-content\\themes\\kleo-child-neu\\includes\\custom-posts-and-meta.php"
+			],
+			[
+				"ajax-po",
+				"wp-content\\assets\\js\\ajax-processing.js"
+			],
+			[
+				"neu-sci",
+				"wp-content\\themes\\kleo-child-neu\\assets\\js\\neu-scripts.js"
+			],
+			[
+				"lib-fu",
+				"wp-content\\themes\\kleo-child-neu\\includes\\library-functions.php"
+			],
+			[
+				"lib-",
+				"wp-content\\themes\\kleo-child-neu\\includes\\library-functions.php"
+			],
+			[
+				"theme-fun",
+				"wp-content\\assets\\php\\theme-functions.php"
+			],
+			[
+				"lib-mas",
+				"wp-content\\themes\\kleo-child-neu\\page-parts\\post-content-lib-masonry.php"
+			],
+			[
+				"fontel",
+				"wp-content\\themes\\kleo\\assets\\css\\fontello.css"
+			],
+			[
+				"libra",
+				"wp-content\\themes\\kleo-child-neu\\includes\\library-functions.php"
+			],
+			[
+				"app.jd",
+				"wp-content\\plugins\\k-elements\\assets\\js\\plugins\\carouFredSel\\helper-plugins\\jquery.ba-throttle-debounce.min.js"
+			],
+			[
+				"single-neu",
+				"wp-content\\themes\\kleo-child-neu\\single-neu_resource.php"
+			],
+			[
+				"ajax-pr",
+				"wp-content\\assets\\js\\ajax-processing.js"
+			],
+			[
+				"common.j",
+				"wp-content\\assets\\js\\ne-common.js"
+			],
+			[
+				"ajajx",
+				"wp-content\\assets\\js\\ajax-processing.js"
+			],
+			[
+				"lib",
+				"wp-content\\themes\\kleo-child-neu\\includes\\library-functions.php"
+			],
+			[
+				"neu",
+				"wp-content\\themes\\kleo-child-neu\\assets\\js\\neu-scripts.js"
+			],
+			[
+				"ne-cpo",
+				"wp-content\\assets\\css\\ne-common-responsive.css"
+			],
+			[
+				"ne-lib",
+				"wp-content\\themes\\kleo-child-neu\\assets\\js\\neu-library.js"
+			],
+			[
+				"library",
+				"wp-content\\themes\\kleo-child-neu\\includes\\library-functions.php"
+			],
+			[
+				"lib-ma",
+				"wp-content\\themes\\kleo-child-neu\\page-parts\\post-content-lib-masonry.php"
+			],
+			[
+				"nec-sear",
+				"wp-content\\themes\\kleo-child\\assets\\js\\nec-search.js"
+			],
+			[
+				"single-nue",
+				"wp-content\\themes\\kleo-child-neu\\single-neu_school.php"
+			],
+			[
+				"single-neu_sch",
+				"wp-content\\themes\\kleo-child-neu\\single-neu_school.php"
+			],
+			[
+				"cusotm-pos",
+				"wp-content\\themes\\kleo-child-neu\\includes\\custom-posts-and-meta.php"
+			],
+			[
+				"post-content-lib",
+				"wp-content\\themes\\kleo-child-neu\\page-parts\\post-content-lib-masonry.php"
+			],
+			[
+				"library-fu",
+				"wp-content\\themes\\kleo-child-neu\\includes\\library-functions.php"
+			],
+			[
+				"cusotm-post",
+				"wp-content\\themes\\kleo-child-neu\\includes\\custom-posts-and-meta.php"
+			],
+			[
+				"ne-commu",
+				"wp-content\\themes\\kleo-child\\assets\\js\\ne-community.js"
+			],
+			[
+				"theme-fu",
+				"wp-content\\themes\\kleo\\lib\\theme-functions.php"
+			],
+			[
+				"syle",
+				"wp-content\\themes\\kleo-child-neu\\style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Program Files (x86)\\Ampps\\www\\humanitycorp\\humanitycorp.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 489.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

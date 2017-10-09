@@ -1,0 +1,5472 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bp_get_group",
+				"bp_get_group_slug\t(bp-groups-template.php)"
+			],
+			[
+				"bp_loggedin",
+				"bp_loggedin_user_domain\t(bp-members-template.php)"
+			],
+			[
+				"bp_core_get_",
+				"bp_core_get_userlink\t(bp-members-functions.php)"
+			],
+			[
+				"sanitize",
+				"sanitize_text_field"
+			],
+			[
+				"just",
+				"justify-content"
+			],
+			[
+				"listst",
+				"list-style"
+			],
+			[
+				"vocatioIdeal",
+				"vocatioIdealCompanyQuestionShortcode"
+			],
+			[
+				"idealCompany",
+				"idealCompanyInput\t(basic-info-tab.php)"
+			],
+			[
+				"get_cure",
+				"get_current_user_id"
+			],
+			[
+				"get_style",
+				"get_stylesheet_directory"
+			],
+			[
+				"wp_send",
+				"wp_send_json_success"
+			],
+			[
+				"berkeu",
+				"berkeUserAssessmentStatus"
+			],
+			[
+				"_berke",
+				"_berke_assessment_id"
+			],
+			[
+				"assess",
+				"assessmentStatus"
+			],
+			[
+				"changed",
+				"changedAssessment"
+			],
+			[
+				"vocatio_get",
+				"vocatio_loggedin_recruiter_id"
+			],
+			[
+				"vocatioNew",
+				"vocatioRecruiterNewMessageEmailNotification"
+			],
+			[
+				"secondar",
+				"secondary_item_id"
+			],
+			[
+				"bp_logg",
+				"bp_loggedin_user_id\t(company-profile.php)"
+			],
+			[
+				"bp_core_get_u",
+				"bp_core_get_username\t(bp-members-functions.php)"
+			],
+			[
+				"bp_logged",
+				"bp_loggedin_user_id"
+			],
+			[
+				"get_post_thumb",
+				"get_the_post_thumbnail"
+			],
+			[
+				"soucr",
+				"sourceJobId"
+			],
+			[
+				"wp_list_",
+				"wp_list_pluck"
+			],
+			[
+				"tracke",
+				"trackedCareerGroup"
+			],
+			[
+				"company_get",
+				"company_get_tracked_career_groups\t(tracked-career-groups.php)"
+			],
+			[
+				"student",
+				"studentMatches"
+			],
+			[
+				"studetn",
+				"studentMatches"
+			],
+			[
+				"related",
+				"related_industry"
+			],
+			[
+				"tracked",
+				"trackedCareerGroups"
+			],
+			[
+				"ob_end_",
+				"ob_end_flush"
+			],
+			[
+				"wp_send_j",
+				"wp_send_json_error"
+			],
+			[
+				"add_action-wp_aj",
+				"add_action-wp_ajax_{$_REQUEST['action']}\tWP Action"
+			],
+			[
+				"recruiter",
+				"recruiterForm"
+			],
+			[
+				"suss",
+				"success"
+			],
+			[
+				"bp_current_",
+				"bp_current_component\t(home.php)"
+			],
+			[
+				"WP_CONTE",
+				"WP_CONTENT_URL"
+			],
+			[
+				"get_post_thu",
+				"get_the_post_thumbnail\t(functions.php)"
+			],
+			[
+				"get_current",
+				"get_current_user_id\t(company-profile.php)"
+			],
+			[
+				"get_user",
+				"get_userdata($memberId"
+			],
+			[
+				"wp_get_attachment_image",
+				"wp_get_attachment_image_url\t(post-thumbnail-template.php)"
+			],
+			[
+				"wp_get",
+				"wp_get_attachment_url\t(post-template.php)"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"WP_",
+				"WP_User\t(functions.php)"
+			],
+			[
+				"berke",
+				"berkeResultTables"
+			],
+			[
+				"berkeRes",
+				"berkeResultsWrap"
+			],
+			[
+				"jobF",
+				"jobFits"
+			],
+			[
+				"ajax",
+				"ajax\t$.ajax()"
+			],
+			[
+				"ide",
+				"identitySelect"
+			],
+			[
+				"identit",
+				"identitySelect"
+			],
+			[
+				"bp_core_",
+				"bp_core_get_username\t(bp-members-functions.php)"
+			],
+			[
+				"iden",
+				"identityHtml"
+			],
+			[
+				"get_curre",
+				"get_current_user_id"
+			],
+			[
+				"bp_core_get",
+				"bp_core_get_userlink\t(bp-members-functions.php)"
+			],
+			[
+				"bp_is_curre",
+				"bp_is_current_action\t(bp-groups-template.php)"
+			],
+			[
+				"wp_enqu",
+				"wp_enqueue_script\tenqueue_script"
+			],
+			[
+				"fcW",
+				"fcWidgetHeight"
+			],
+			[
+				"bp_get_gro",
+				"bp_get_group_slug\t(functions.php)"
+			],
+			[
+				"left",
+				"left-half\t(index.html)"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"white",
+				"white-space"
+			],
+			[
+				"seciton-prou",
+				"section-products-title\t(index.html)"
+			],
+			[
+				"parall",
+				"parallax_image"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"tranls",
+				"translateY\t(style.css)"
+			],
+			[
+				"comm-s",
+				"comm-subsection\tComment - Subsection comment"
+			],
+			[
+				"comm-sec",
+				"comm-section\tComment - Full section comment"
+			],
+			[
+				"gform_pre_",
+				"gform_pre_render_5\t(gravity_forms.php)"
+			],
+			[
+				"revie",
+				"review_author"
+			],
+			[
+				"wp_get_curr",
+				"wp_get_current_user\t(comment-template.php)"
+			],
+			[
+				"padding-b",
+				"padding-bottom"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"window",
+				"window).load\t(functions.php)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-config.php",
+			"settings":
+			{
+				"buffer_size": 3099,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/functions.php",
+			"settings":
+			{
+				"buffer_size": 133261,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/career_groups.php",
+			"settings":
+			{
+				"buffer_size": 2727,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/industry_groups.php",
+			"settings":
+			{
+				"buffer_size": 1433,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/companies.php",
+			"settings":
+			{
+				"buffer_size": 2511,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/career-groups/banner.php",
+			"settings":
+			{
+				"buffer_size": 4157,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-includes/functions.php",
+			"settings":
+			{
+				"buffer_size": 174706,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-groups/classes/class-bp-groups-member.php",
+			"settings":
+			{
+				"buffer_size": 46713,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php\n\t/**\n\t * The template for displaying Buddypress pages\n\t *\n\t *\n\t * @package Wordpress\n\t * @subpackage Kleo\n\t * @since Kleo 1.0\n\t */\n\n\tinclude_once(get_template_directory() . '/../vocatio-kleo-child/berke/berke-api.php');\n\t    \n\t/* Change page display based on current Page settings */\n\tadd_action('wp_head','kleo_bp_page_options');\n\n\t/* Add custom HTML to BP page header set from Page options */\n\tadd_action('kleo_before_main', 'kleo_bp_header', 8);\n\n\t/* Add custom HTML to BP page bottom set from Page options */\n\tadd_action( 'kleo_after_main_content', 'kleo_bp_bottom', 12 );\n\n\t/* Custom menu page option */\n\tadd_filter('wp_nav_menu_args', 'kleo_bp_set_custom_menu');\n\n\tfunction vocatio_logged_in_pages( $classes ) {\n\t\t$classes[] = 'vocatio_logged_in_pages';\n\t\t\n\t\treturn $classes;\n\t}\n\tadd_filter( 'body_class', 'vocatio_logged_in_pages' );\n\n\tget_header(); \n?>\n\n<?php \n//Get Current Group Type (Career/Industry)\nglobal $bp;\n$currentgroupID = $bp->groups->current_group->id;\n$group_type = bp_groups_get_group_type($currentgroupID);\n?>\n\n<section class=\"container-wrap main-title alternate-color title-single border-bottom\">\n\t<div class=\"container\">\n\t\t<h1 class=\"page-title\">\n\t\t\t<div class=\"vocatioTitleWrapper\">\n\t\t\t\t<?php\n\t\t\t\t\t$user_role = get_userdata(get_current_user_id())->roles[0];\n\t\t\t\t\t\n\t\t\t\t\tif ($group_type == 'career') {\n\t\t\t\t\t\tif($user_role==='student')\n\t\t\t\t\t\t\t$careerGroupLink = 'career_groups';\n\n\t\t\t\t\t\tif($user_role==='company')\n\t\t\t\t\t\t\t$careerGroupLink = 'career-groups';\n\t\t\t\t\t} else {\n\t\t\t\t\t\t$careerGroupLink = 'industry_groups';\n\t\t\t\t\t}\n\t\t\t\t?>\n\t\t\t\t<a class=\"page-parent\" href=\"<?php echo bp_loggedin_user_domain().$careerGroupLink?>\">\n\t\t\t\t\t\n\t\t\t\t\t<?php echo strtoupper($group_type); ?> GROUPS&nbsp;>&nbsp;\n\t\t\t\t</a>\n\t\t\t\t<?php echo get_the_title(); ?>\n\t\t\t</div>\n\t\t\t<?php if ($group_type == 'career') { ?>\n\t\t\t\t<div class=\"vocatioGuideWrapper\">\n\t\t\t\t\t<a href=\"<?php echo bp_loggedin_user_domain()?>career_groups\">\n\t\t\t\t\t\tView Career Group Matches&nbsp;\n\t\t\t\t\t\t<i class=\"fa fa-arrow-circle-o-right\" aria-hidden=\"true\"></i>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t<?php } ?>\n\t\t</h1>\n\t\t<div class=\"breadcrumb-extra\"></div>\n\t</div>\n</section>\n\n<link rel=\"stylesheet\" type=\"text/css\" href=\"<?php echo get_template_directory_uri() . '/../vocatio-kleo-child/css/buddypress/groups/single/home.css'?>\">\n<?php\n\t//not working for some reason\n\twp_enqueue_style('style', get_template_directory_uri() . '/../vocatio-kleo-child/css/buddypress/groups/single/home.css');\n\n\t$group_id = groups_get_id( bp_current_item() );\n\tif ( groups_is_user_banned( bp_loggedin_user_id(), $group_id ) )\n\t\treturn;\n\n\tif ( ! $group = groups_get_group( array( 'group_id' => $group_id ) ) )\n\t\treturn;\n\t\n\tif ($BerkeApi->getCurrentUserType() == 'Student') {\n\t\tif ($BerkeApi->getUserBerkeCandidateId() != ''){\n\t\t\t$assessmentStatus = $BerkeApi->getAssessmentStatus();\n\t\t\tif ($assessmentStatus->assessmentStatus->status == \"Completed\") {\n\t\t\t\t$jobFits = $BerkeApi->getMatches()->assessment->jobFit;\n\n\t\t\t\tforeach($jobFits as $jobFit) {\n\t\t\t\t\t$jobName = trim($jobFit->job);\n\t\t\t\t\n\t\t\t\t\tif ($jobName == $group->name) {\n\t\t\t\t\t\t$currentJobFitBerke = $jobFit;\n\t\t\t\t\t\tbreak;\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t}\t\n\t\t}\n\t}\n\n\t$user_role = '';\n\tif ( is_user_logged_in() ) {\n\t\t$current_user = get_user_by( 'ID', bp_loggedin_user_id() );\n\t\tif(!empty($current_user->roles)) {\n\t\t\t$user_roles = $current_user->roles;\n\t\t\t$user_role = array_shift($user_roles);\n\t\t}\n\t}\n\n\tif( $user_role == 'student' ) {\n\t\t// berke job fit report\n\t\t$sourceJobID = $currentJobFitBerke->sourceJobId;\n\t\t$fitReport = $BerkeApi->getReportForJob($sourceJobID);\n\t}\n\n\t$url = parse_url($_SERVER['REQUEST_URI']);\n\t$urlparts = explode('/', $url['path']);\n\t$careerSlug = $urlparts[array_search('user-groups', $urlparts)+1];\n\n\tif ($group_type == 'career') {\n\t\t$post_type = 'careers';\n\t}\n\tif ($group_type == 'industry') {\n\t\t$post_type = 'industries';\n\t}\n\t$careers_slug = get_posts(array(\n\t\t'name' => $careerSlug,\n\t\t'post_type' => $post_type,\n\t\t'post_status' => 'publish',\n\t));\n\t$searchedValue = $careerSlug;\n\t$career = array_filter(\n\t\t$careers,\n\t\tfunction ($e) use (&$searchedValue) {\n\t\t\treturn $e->post_name == $searchedValue;\n\t\t}\n\t);\n\t$career = reset($career);\n\t$careerContent = do_shortcode($career->post_content);\n\n?>\n\n<?php include(locate_template('page-parts/career-groups/banner.php')); ?>\n\n<section class=\"container-wrap main-color\">\n\t<div id=\"main-container\" class=\"container\">\n\t\t<div class=\"row\"> \t\t\t\n\t\t\t<div class=\"template-page col-sm-9 tpl-right\">\n\t\t\t\t<?php include(locate_template('buddypress/groups/single/home.php')) ?>\n\t\t\t</div>\n\t\t\t<div class=\"sidebar sidebar-main col-sm-3 sidebar-right\">\n\t\t\t\t<?php include(locate_template('page-parts/career-groups/sidebar.php')); ?>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>\n\n<?php get_template_part('page-parts/general-after-wrap'); ?>\n<?php get_footer(); ?>",
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/groups/single/index.php",
+			"file_size": 4938,
+			"file_write_time": 131492792053584717,
+			"settings":
+			{
+				"buffer_size": 4778,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress.php",
+			"settings":
+			{
+				"buffer_size": 6616,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/css/buddypress/members/single/fit_test.css",
+			"settings":
+			{
+				"buffer_size": 4154,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page.php",
+			"settings":
+			{
+				"buffer_size": 1791,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/css/login.css",
+			"settings":
+			{
+				"buffer_size": 12946,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/css/main.css",
+			"settings":
+			{
+				"buffer_size": 49669,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/job_fit_reports.php",
+			"settings":
+			{
+				"buffer_size": 2781,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/style.css",
+			"settings":
+			{
+				"buffer_size": 7623,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/home.php",
+			"settings":
+			{
+				"buffer_size": 6317,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/student-home.php",
+			"settings":
+			{
+				"buffer_size": 2891,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/post-content-masonry.php",
+			"settings":
+			{
+				"buffer_size": 9447,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/company-profile.php",
+			"settings":
+			{
+				"buffer_size": 9279,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-members/bp-members-template.php",
+			"settings":
+			{
+				"buffer_size": 72937,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-core/bp-core-template.php",
+			"settings":
+			{
+				"buffer_size": 106251,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/company-profile/sidebar.php",
+			"settings":
+			{
+				"buffer_size": 4850,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/this-week/header-stats.php",
+			"settings":
+			{
+				"buffer_size": 3779,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/lib/options.php",
+			"settings":
+			{
+				"buffer_size": 77466,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/js/vocatio.js",
+			"settings":
+			{
+				"buffer_size": 3134,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/css/buddypress/groups/single/home.css",
+			"settings":
+			{
+				"buffer_size": 5058,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "/* =========================================================\n * composer-view.js v0.2.1\n * =========================================================\n * Copyright 2013 Wpbakery\n *\n * Visual composer backbone/underscore version\n * ========================================================= */\n\n (function ($) {\n    var i18n = window.i18nLocale,\n        store = vc.storage,\n        Shortcodes = vc.shortcodes;\n   vc.builder = {\n       toString: function(model, type) {\n           var params = model.get('params'),\n               content = _.isString(params.content) ? params.content : '';\n           return wp.shortcode.string({\n               tag: model.get('shortcode'),\n               attrs: _.omit(params, 'content'),\n               content: content,\n               type:_.isString(type) ? type : ''\n           });\n       }\n   };\n    /**\n     * Default view for shortcode as block inside Visual composer design mode.\n     * @type {*}\n     */\n    vc.clone_index = 1;\n    vc.saved_custom_css = false;\n    var ShortcodeView = vc.shortcode_view = Backbone.View.extend({\n        tagName:'div',\n        $content:'',\n        use_default_content:false,\n        params:{},\n        events:{\n            'click .column_delete,.vc_control-btn-delete':'deleteShortcode',\n            'click .column_add,.vc_control-btn-prepend':'addElement',\n            'click .column_edit,.vc_control-btn-edit, .column_edit_trigger':'editElement',\n            'click .column_clone,.vc_control-btn-clone':'clone',\n            'mousemove': 'checkControlsPosition'\n        },\n        removeView:function () {\n          vc.closeActivePanel(this.model);\n            this.remove();\n        },\n        checkControlsPosition: function() {\n            if(!this.$controls_buttons) return;\n            var window_top, control_top, element_position_top, new_position,\n                element_height = this.$el.height(),\n                window_height = $(window).height();\n            if(element_height > window_height) {\n                window_top = $(window).scrollTop();\n                control_top = this.$controls_buttons.offset().top;\n                element_position_top = this.$el.offset().top;\n                new_position =  (window_top - element_position_top) + $(window).height()/2;\n                if(new_position > 40 && new_position < element_height) {\n                    this.$controls_buttons.css('top',  new_position);\n                } else if(new_position > element_height) {\n                    this.$controls_buttons.css('top',  element_height - 40);\n\n                } else {\n                    this.$controls_buttons.css('top',  40);\n                }\n            }\n        },\n        initialize:function () {\n            this.model.bind('destroy', this.removeView, this);\n            this.model.bind('change:params', this.changeShortcodeParams, this);\n            this.model.bind('change_parent_id', this.changeShortcodeParent, this);\n            this.createParams();\n        },\n        createParams:function () {\n            var tag = this.model.get('shortcode'),\n                params = _.isObject(vc.map[tag]) && _.isArray(vc.map[tag].params) ? vc.map[tag].params : [];\n            this.params = {};\n            _.each(params, function (param) {\n                this.params[param.param_name] = param;\n            }, this);\n        },\n        setContent:function () {\n            this.$content = this.$el.find('> .wpb_element_wrapper > .vc_container_for_children');\n        },\n        setEmpty:function () {\n        },\n        unsetEmpty:function () {\n\n        },\n        checkIsEmpty:function () {\n            if (this.model.get('parent_id')) {\n                vc.app.views[this.model.get('parent_id')].checkIsEmpty();\n            }\n        },\n\n        /**\n         * Convert html into correct element\n         * @param html\n         */\n        html2element:function (html) {\n            var attributes = {},\n                $template;\n            if (_.isString(html)) {\n                this.template = _.template(html);\n                $template = $(this.template(this.model.toJSON()).trim());\n            } else {\n                this.template = html;\n                $template = html;\n            }\n            _.each($template.get(0).attributes, function (attr) {\n                attributes[attr.name] = attr.value;\n            });\n            this.$el.attr(attributes).html($template.html());\n            this.setContent();\n            this.renderContent();\n        },\n        render:function () {\n            if ($('#vc_shortcode-template-' + this.model.get('shortcode')).is('script')) {\n                this.html2element(_.template($('#vc_shortcode-template-' + this.model.get('shortcode')).html(), this.model.toJSON()));\n            } else {\n                var params = this.model.get('params');\n                $.ajax({\n                    type:'POST',\n                    url:window.ajaxurl,\n                    data:{\n                        action:'wpb_get_element_backend_html',\n                        data_element:this.model.get('shortcode'),\n                        data_width:_.isUndefined(params.width) ? '1/1' : params.width\n                    },\n                    dataType:'html',\n                    context:this\n                }).done(function (html) {\n                        this.html2element(html);\n                    });\n            }\n            this.model.view = this;\n            this.$controls_buttons = this.$el.find('.vc_controls > :first');\n            return this;\n        },\n        renderContent:function () {\n            this.$el.attr('data-model-id', this.model.get('id'));\n            this.$el.data('model', this.model);\n            return this;\n        },\n        changedContent:function (view) {\n        },\n        _loadDefaults:function () {\n            var tag = this.model.get('shortcode');\n            if (this.use_default_content === true && _.isObject(vc.map[tag]) && _.isString(vc.map[tag].default_content) && vc.map[tag].default_content.length) {\n                this.use_default_content = false;\n                Shortcodes.createFromString(vc.map[tag].default_content, this.model);\n            }\n        },\n        _callJsCallback:function () {\n            //Fire INIT callback if it is defined\n            var tag = this.model.get('shortcode');\n            if (_.isObject(vc.map[tag]) && _.isObject(vc.map[tag].js_callback) && !_.isUndefined(vc.map[tag].js_callback.init)) {\n                var fn = vc.map[tag].js_callback.init;\n                window[fn](this.$el);\n            }\n        },\n        ready:function (e) {\n            this._loadDefaults();\n            this._callJsCallback();\n            if (this.model.get('parent_id') && _.isObject(vc.app.views[this.model.get('parent_id')])) {\n                vc.app.views[this.model.get('parent_id')].changedContent(this);\n            }\n            return this;\n        },\n        // View utils {{\n        addShorcode:function (model) {\n            var view = new ShortcodeView({model:model});\n            this.$content.append(view.render().el);\n            app.setSortable();\n        },\n        changeShortcodeParams:function (model) {\n            var params = model.get('params'),\n                settings = vc.map[model.get('shortcode')],\n                inverted_value;\n            if (_.isArray(settings.params)) {\n                _.each(settings.params, function (p) {\n                    var name = p.param_name,\n                        value = params[name],\n                        $wrapper = this.$el.find('> .wpb_element_wrapper'),\n                        label_value = value,\n                        $admin_label = $wrapper.children('.admin_label_' + name);\n                    if (_.isObject(vc.atts[p.type]) && _.isFunction(vc.atts[p.type].render)) {\n                        value = vc.atts[p.type].render.call(this, p, value);\n                    }\n                    if ($wrapper.children('.' + p.param_name).is('input,textarea,select')) {\n                      $wrapper.children('[name=' + p.param_name + ']').val(value);\n                    } else if ($wrapper.children('.' + p.param_name).is('iframe')) {\n                        $wrapper.children('[name=' + p.param_name + ']').attr('src', value);\n                    } else if ($wrapper.children('.' + p.param_name).is('img')) {\n                      var $img = $wrapper.children('[name=' + p.param_name + ']');\n                      if(value && value.match(/^\\d+$/)) {\n                        $.ajax({\n                          type:'POST',\n                          url:window.ajaxurl,\n                          data:{\n                            action:'wpb_single_image_src',\n                            content: value,\n                            size: 'thumbnail'\n                          },\n                          dataType:'html',\n                          context:this\n                        }).done(function (url) {\n                            $img.attr('src', url);\n                          });\n                      } else if(value) {\n                        $img.attr('src', value);\n                      }\n                    } else {\n                      $wrapper.children('[name=' + p.param_name + ']').html(value ? value : '');\n                    }\n                    if ($admin_label.length) {\n                        if(value === '' || _.isUndefined(value)) {\n                          $admin_label.hide().addClass('hidden-label');\n                        } else {\n                          if (_.isObject(p.value) && !_.isArray(p.value) && p.type == 'checkbox') {\n                            inverted_value = _.invert(p.value);\n                            label_value = _.map(value.split(/[\\s]*\\,[\\s]*/),function (val) {\n                              return _.isString(inverted_value[val]) ? inverted_value[val] : val;\n                            }).join(', ');\n                          } else if (_.isObject(p.value) && !_.isArray(p.value)) {\n                            inverted_value = _.invert(p.value);\n                            label_value = _.isString(inverted_value[value]) ? inverted_value[value] : value;\n                          }\n                          $admin_label.html('<label>' + $admin_label.find('label').text() + '</label>: ' + label_value);\n                          $admin_label.show().removeClass('hidden-label');\n                        }\n                    }\n                }, this);\n            }\n            if (this.model.get('parent_id') !== false && _.isObject(view = vc.app.views[this.model.get('parent_id')])) {\n                view.checkIsEmpty();\n            }\n        },\n        changeShortcodeParent:function (model) {\n            if (this.model.get('parent_id') === false) return model;\n            var $parent_view = $('[data-model-id=' + this.model.get('parent_id') + ']'),\n                view = vc.app.views[this.model.get('parent_id')];\n            this.$el.appendTo($parent_view.find('> .wpb_element_wrapper > .wpb_column_container'));\n            view.checkIsEmpty();\n        },\n        // }}\n        // Event Actions {{\n        deleteShortcode:function (e) {\n            if (_.isObject(e)) e.preventDefault();\n            var answer = confirm(i18n.press_ok_to_delete_section);\n            if (answer === true) this.model.destroy();\n        },\n\n        addElement:function (e) {\n            _.isObject(e) && e.preventDefault();\n            // new ElementBlockView({model:{position_to_add:!_.isObject(e) || !$(e.currentTarget).closest('.bottom-controls').hasClass('bottom-controls') ? 'start' : 'end'}}).show(this);\n          vc.add_element_block_view.render(this.model, !_.isObject(e) || !$(e.currentTarget).closest('.bottom-controls').hasClass('bottom-controls'));\n        },\n        editElement:function (e) {\n            if (_.isObject(e)) e.preventDefault();\n          vc.edit_element_block_view.render(this.model);\n        },\n        clone:function (e) {\n            if (_.isObject(e)) e.preventDefault();\n            vc.clone_index = vc.clone_index / 10;\n            return this.cloneModel(this.model, this.model.get('parent_id'));\n        },\n        cloneModel:function (model, parent_id, save_order) {\n            var shortcodes_to_resort = [],\n                new_order = _.isBoolean(save_order) && save_order === true ? model.get('order') : parseFloat(model.get('order')) + vc.clone_index,\n                model_clone = Shortcodes.create({shortcode:model.get('shortcode'), id: window.vc_guid(), parent_id:parent_id, order:new_order, cloned:true, cloned_from:model.toJSON(), params:_.extend({}, model.get('params'))});\n            _.each(Shortcodes.where({parent_id:model.id}), function (shortcode) {\n                this.cloneModel(shortcode, model_clone.get('id'), true);\n            }, this);\n            return model_clone;\n        }\n        // }}\n    });\n\n    var VisualComposer = Backbone.View.extend({\n        el:$('#wpb_visual_composer'),\n        views:{},\n        events:{\n            \"click #wpb-add-new-row\":'createRow',\n            'click #vc_post-settings-button': 'editSettings',\n            'click #vc_add-new-element, .vc_add-element-button, .vc_add-element-not-empty-button':'addElement',\n            'click .vc_add-text-block-button':'addTextBlock',\n            'click .wpb_switch-to-composer':'switchComposer',\n            'click #vc_templates-editor-button': 'openTemplatesEditor',\n            'click [data-template_name]':'loadDefaultTemplate',\n            'click #wpb-save-post':'save',\n            'click .vc_control-preview':'preview'\n        },\n        initialize:function () {\n            this.accessPolicy = $('.vc_js_composer_group_access_show_rule').val();\n            if (this.accessPolicy == 'no') return false;\n            this.buildRelevance();\n            _.bindAll(this, 'switchComposer', 'dropButton', 'processScroll', 'updateRowsSorting', 'updateElementsSorting');\n            Shortcodes.bind('add', this.addShortcode, this);\n            Shortcodes.bind('destroy', this.checkEmpty, this);\n            Shortcodes.bind('reset', this.addAll, this);\n            this.render();\n        },\n        render:function () {\n            var front = '';\n            if (this.accessPolicy !== 'only') {\n                if(vc_frontend_enabled) front = '<span class=\"vc_spacer\"></span><a class=\"wpb_switch-to-front-composer\" href=\"' + $('#wpb-edit-inline').attr('href') +'\">' + window.i18nLocale.main_button_title_frontend_editor + '</a>';\n                this.$buttonsContainer = $('<div class=\"composer-switch\"><span class=\"logo-icon\"></span><span class=\"vc_spacer\"></span><a class=\"wpb_switch-to-composer\" href=\"#\">' + window.i18nLocale.main_button_title_backend_editor + '</a>' + front + '</div>').insertAfter('div#titlediv');\n                // this.$switchButton = $('<a class=\"wpb_switch-to-composer button-primary\" href=\"#\">' + window.i18nLocale.main_button_title + '</a>').insertAfter('div#titlediv').wrap('<p class=\"composer-switch\" />');\n                this.$switchButton = this.$buttonsContainer.find('.wpb_switch-to-composer');\n                this.$switchButton.click(this.switchComposer);\n            }\n            this.$metablock_content = $('.metabox-composer-content');\n            this.$content = $(\"#visual_composer_content\");\n            this.$post = $('#postdivrich');\n            this.$vcStatus = $('#wpb_vc_js_status');\n            this.$loading_block = $('#vc_logo');\n            vc.add_element_block_view = new vc.AddElementBlockViewBackendEditor({el: '#vc_add-element-dialog'});\n            vc.edit_element_block_view = new vc.EditElementPanelView({el: '#vc_properties-panel'});\n            vc.templates_editor_view = new vc.TemplatesEditorPanelViewBackendEditor({el: '#vc_templates-editor'});\n            vc.post_settings_view = new vc.PostSettingsPanelViewBackendEditor({el: '#vc_post-settings-panel'});\n            this.setSortable();\n            this.setDraggable();\n            vc.is_mobile = $('body.mobile').length > 0;\n            vc.saved_custom_css = $('#wpb_custom_post_css_field').val();\n            vc.updateSettingsBadge();\n            return this;\n        },\n        addAll:function () {\n            this.views = {};\n            this.$content.removeClass('loading').html('');\n            this.addChild(false);\n            this.checkEmpty();\n            this.$loading_block.removeClass('vc_ajax-loading');\n            this.$metablock_content.removeClass('vc_loading-shortcodes');\n        },\n        addChild: function(parent_id) {\n            _.each(vc.shortcodes.where({parent_id: parent_id}), function (shortcode) {\n                this.appendShortcode(shortcode);\n                this.setSortable();\n                this.addChild(shortcode.get('id'));\n            }, this);\n        },\n        getView:function (model) {\n            var view;\n            if (_.isObject(vc.map[model.get('shortcode')]) && _.isString(vc.map[model.get('shortcode')].js_view) && vc.map[model.get('shortcode')].js_view.length) {\n                view = new window[window.vc.map[model.get('shortcode')].js_view]({model:model});\n            } else {\n                view = new ShortcodeView({model:model});\n            }\n            model.set({view: view});\n            return view;\n        },\n        setDraggable:function () {\n            $('#wpb-add-new-element, #wpb-add-new-row').draggable({\n                helper:function () {\n                    return $('<div id=\"drag_placeholder\"></div>').appendTo('body');\n                },\n                zIndex:99999,\n                // cursorAt: { left: 10, top : 20 },\n                cursor:\"move\",\n                // appendTo: \"body\",\n                revert:\"invalid\",\n                start:function (event, ui) {\n                    $(\"#drag_placeholder\").addClass(\"column_placeholder\").html(window.i18nLocale.drag_drop_me_in_column);\n                }\n            });\n            this.$content.droppable({\n                greedy:true,\n                accept:\".dropable_el,.dropable_row\",\n                hoverClass:\"wpb_ui-state-active\",\n                drop:this.dropButton\n            });\n        },\n        dropButton:function (event, ui) {\n            if (ui.draggable.is('#wpb-add-new-element')) {\n                this.addElement();\n            } else if (ui.draggable.is('#wpb-add-new-row')) {\n                this.createRow();\n            }\n        },\n        appendShortcode:function (model) {\n            var view = this.getView(model),\n                position = model.get('order'),\n                $element_to_add = model.get('parent_id') !== false ?\n                    this.views[model.get('parent_id')].$content\n                    :\n                    this.$content;\n            this.views[model.id] = view;\n            if (model.get('parent_id')) {\n                var parent_view = this.views[model.get('parent_id')];\n                parent_view.unsetEmpty();\n            }\n            $element_to_add.append(view.render().el);\n            view.ready();\n\n            view.changeShortcodeParams(model); // Refactor\n            view.checkIsEmpty();\n            this.setNotEmpty();\n        },\n        addShortcode: function (model) {\n            var view = this.getView(model),\n                position = model.get('order'),\n                $element_to_add = model.get('parent_id') !== false ?\n                    this.views[model.get('parent_id')].$content\n                    :\n                    this.$content;\n            view.use_default_content = model.get('cloned') !== true;\n            this.views[model.id] = view;\n            var before_shortcode = _.last(Shortcodes.filter(function (shortcode) {\n                return shortcode.get('parent_id') === this.get('parent_id') && parseFloat(shortcode.get('order')) < parseFloat(this.get('order'));\n            }, model));\n            if (before_shortcode) {\n                view.render().$el.insertAfter('[data-model-id=' + before_shortcode.id + ']');\n            } else {\n                $element_to_add.prepend(view.render().el);\n            }\n\n            if (model.get('parent_id')) {\n                var parent_view = this.views[model.get('parent_id')];\n                parent_view.checkIsEmpty();\n            }\n            model.trigger('change:params', model);\n            view.ready();\n            this.setSortable();\n            this.setNotEmpty();\n        },\n        addTextBlock:function (e) {\n            e.preventDefault();\n            var row = Shortcodes.create({shortcode:'vc_row'}),\n                column = Shortcodes.create({shortcode:'vc_column', params:{width:'1/1'}, parent_id:row.id, root_id:row.id }),\n                text_block = Shortcodes.create({shortcode:'vc_column_text', params:vc.getDefaults('vc_column_text'), parent_id:column.id, root_id:row.id });\n            return text_block;\n        },\n        /**\n         * Create row\n         */\n        createRow:function () {\n            var row = Shortcodes.create({shortcode:'vc_row'});\n            Shortcodes.create({shortcode:'vc_column', params:{width:'1/1'}, parent_id:row.id, root_id:row.id });\n            return row;\n        },\n        /**\n         * Add Element with a help of modal view.\n         */\n        addElement:function (e) {\n          _.isObject(e) && e.preventDefault();\n          vc.add_element_block_view.render(false);\n        },\n        openTemplatesEditor: function(e) {\n          e && e.preventDefault();\n          vc.templates_editor_view.render().show();\n        },\n        loadDefaultTemplate: function(e) {\n          e && e.preventDefault();\n          vc.templates_editor_view.loadDefaultTemplate(e);\n          // $(\"#vc_no-content-helper\").remove(); // TODO check P vs S\n        },\n        editSettings: function(e) {\n          e && e.preventDefault();\n          vc.post_settings_view.render().show();\n        },\n        sortingStarted:function (event, ui) {\n            $('#visual_composer_content').addClass('vc_sorting-started');\n        },\n        sortingStopped:function (event, ui) {\n            $('#visual_composer_content').removeClass('vc_sorting-started');\n        },\n        updateElementsSorting:function (event, ui) {\n            _.defer(function (app, event, ui) {\n                var $current_container = ui.item.parent().closest('[data-model-id]'),\n                    parent = $current_container.data('model'),\n                    model = ui.item.data('model'),\n                    models = app.views[parent.id].$content.find('> [data-model-id]'),\n                    i = 0;\n                // Change parent if block moved to another container.\n                if (!_.isNull(ui.sender)) {\n                    var old_parent_id = model.get('parent_id');\n                    store.lock();\n                    model.save({parent_id:parent.id});\n                    app.views[old_parent_id].checkIsEmpty();\n                    app.views[parent.id].checkIsEmpty();\n                }\n                models.each(function () {\n                    var shortcode = $(this).data('model');\n                    store.lock();\n                    shortcode.save({'order':i++});\n                });\n                model.save();\n            }, this, event, ui);\n\n        },\n        updateRowsSorting:function () {\n            _.defer(function (app) {\n                var $rows = app.$content.find('> .wpb_vc_row');\n                $rows.each(function () {\n                    var index = $(this).index();\n                    if ($rows.length - 1 > index) store.lock();\n                    $(this).data('model').save({'order':index});\n                });\n            }, this);\n        },\n        renderPlaceholder: function(event, element) {\n          var tag = $(element).data('element_type'),\n            $helper = $('<div class=\"vc_helper vc_helper-' + tag + '\"><i class=\"vc_element-icon'\n              + ( vc.map[tag].icon ? ' ' + vc.map[tag].icon : '' )\n              + '\"></i> ' + vc.map[tag].name + '</div>').prependTo('body');\n          return $helper;\n        },\n        setSortable:function () {\n            var that = this;\n            $('.wpb_main_sortable').sortable({\n                forcePlaceholderSize:true,\n                placeholder:\"widgets-placeholder\",\n                // cursorAt: { left: 10, top : 20 },\n                cursor:\"move\",\n                items:\"> .wpb_vc_row\", // wpb_sortablee\n                handle:'.column_move',\n                distance:0.5,\n                start:this.sortingStarted,\n                stop:this.sortingStopped,\n                update:this.updateRowsSorting,\n                over:function (event, ui) {\n                    ui.placeholder.css({maxWidth:ui.placeholder.parent().width()});\n                }\n            });\n            $('.wpb_column_container').sortable({\n                forcePlaceholderSize: true,\n                forceHelperSize: false,\n                connectWith:\".wpb_column_container\",\n                placeholder:\"vc_placeholder\",\n                items:\"> div.wpb_sortable\", //wpb_sortablee\n                helper: this.renderPlaceholder,\n                distance: 3,\n                scroll: true,\n                scrollSensitivity: 70,\n                cursor: 'move',\n                cursorAt: {top: 20, left: 16},\n                tolerance:'pointer',\n                start:function () {\n                    $('#visual_composer_content').addClass('vc_sorting-started');\n                    $('.vc_not_inner_content').addClass('dragging_in');\n                },\n                stop:function (event, ui) {\n                    $('#visual_composer_content').removeClass('vc_sorting-started');\n                    $('.dragging_in').removeClass('dragging_in');\n                    var tag = ui.item.data('element_type'),\n                        parent_tag = ui.item.parent().closest('[data-element_type]').data('element_type'),\n                        allowed_container_element = !_.isUndefined(vc.map[parent_tag].allowed_container_element) ? vc.map[parent_tag].allowed_container_element : true;\n                    if (!vc.check_relevance(parent_tag, tag)) {\n                        $(this).sortable('cancel');\n                    }\n                    if (vc.map[ui.item.data('element_type')].is_container && !(allowed_container_element === true || allowed_container_element === ui.item.data('element_type').replace(/_inner$/, ''))) { // && ui.item.hasClass('wpb_container_block')\n                        $(this).sortable('cancel');\n                    }\n                    $('.vc_sorting-empty-container').removeClass('vc_sorting-empty-container');\n                },\n                update:this.updateElementsSorting,\n                over:function (event, ui) {\n                    var tag = ui.item.data('element_type'),\n                        parent_tag = ui.placeholder.closest('[data-element_type]').data('element_type'),\n                        allowed_container_element = !_.isUndefined(vc.map[parent_tag].allowed_container_element) ? vc.map[parent_tag].allowed_container_element : true;\n                    if (!vc.check_relevance(parent_tag, tag)) {\n                        ui.placeholder.addClass('vc_hidden-placeholder');\n                        return false;\n                    }\n                    if (vc.map[ui.item.data('element_type')].is_container && !(allowed_container_element === true || allowed_container_element === ui.item.data('element_type').replace(/_inner$/, ''))) {\n                        ui.placeholder.addClass('vc_hidden-placeholder');\n                        return false;\n                    }\n                    if(ui.sender && ui.sender.length && !ui.sender.find('[data-element_type]:visible').length) {\n                      ui.sender.addClass('vc_sorting-empty-container');\n                    }\n                    ui.placeholder.removeClass('vc_hidden-placeholder'); // .parent().removeClass('vc_empty-container');\n                    ui.placeholder.css({maxWidth:ui.placeholder.parent().width()});\n                }\n            });\n            return this;\n        },\n        setNotEmpty:function () {\n            // this.$metablock_content.removeClass('empty-composer');\n            $('#vc_no-content-helper').addClass('vc_not-empty');\n        },\n        setIsEmpty:function () {\n            // this.$metablock_content.addClass('empty-composer');\n            $('#vc_no-content-helper').removeClass('vc_not-empty')\n        },\n        checkEmpty:function (model) {\n            if (_.isObject(model) && model.get('parent_id') !== false && model.get('parent_id') != model.id) {\n                var parent_view = this.views[model.get('parent_id')];\n                parent_view.checkIsEmpty();\n            }\n            if (this.$content.find('[data-element_type]').length === 0) {\n                this.setIsEmpty();\n            } else {\n                this.setNotEmpty();\n            }\n        },\n        switchComposer:function (e) {\n            if (_.isObject(e)) e.preventDefault();\n            if (this.status == 'shown') {\n              if (this.accessPolicy !== 'only') {\n                !_.isUndefined(this.$switchButton) && this.$switchButton.text(window.i18nLocale.main_button_title_backend_editor);\n                !_.isUndefined(this.$buttonsContainer) && this.$buttonsContainer.removeClass('vc_backend-status');\n              }\n              this.close();\n              this.status = 'closed';\n            } else {\n              if (this.accessPolicy !== 'only') {\n                !_.isUndefined(this.$switchButton) && this.$switchButton.text(window.i18nLocale.main_button_title_revert);\n                !_.isUndefined(this.$buttonsContainer) && this.$buttonsContainer.addClass('vc_backend-status');\n              }\n              this.show();\n                this.status = 'shown';\n\n            }\n        },\n        show:function () {\n            this.$el.show();\n            this.$post.hide();\n            this.$vcStatus.val(\"true\");\n            this.navOnScroll();\n            if (vc.storage.isContentChanged()) {\n                vc.app.setLoading();\n                vc.app.views = {};\n\n                window.setTimeout(function () {\n                    Shortcodes.fetch({reset: true});\n                }, 100);\n            }\n        },\n        setLoading:function () {\n            this.setNotEmpty();\n            this.$loading_block.addClass('vc_ajax-loading');\n            this.$metablock_content.addClass('vc_loading-shortcodes');\n        },\n        close:function () {\n            this.$vcStatus.val(\"false\");\n            // if (this.$switchButton !== undefined) this.$switchButton.html(window.i18nLocale.main_button_title);\n            this.$el.hide();\n            this.$post.show();\n        },\n        checkVcStatus:function () {\n            if (this.$vcStatus.val() === 'true' || this.accessPolicy === 'only') {\n                this.switchComposer();\n            }\n        },\n        setNavTop:function () {\n          this.navTop = this.$nav.length && this.$nav.offset().top - 28;\n        },\n        save:function () {\n            $('#wpb-save-post').text(window.i18nLocale.loading);\n            $('#publish').click();\n        },\n        preview:function() {\n            $('#post-preview').click();\n        },\n        navOnScroll:function () {\n            var $win = $(window);\n            this.$nav = $('#vc_navbar'); // $('#wpb_visual_composer-elements');\n            this.setNavTop();\n            this.processScroll();\n            $win.unbind('scroll.composer').on('scroll.composer', this.processScroll);\n        },\n        processScroll:function (e) {\n            if( !this.navTop || this.navTop < 0) {\n                this.setNavTop();\n            }\n            this.scrollTop = $(window).scrollTop() + 80;\n            if ( this.navTop > 0 && this.scrollTop >= this.navTop && !this.isFixed) {\n                this.isFixed = 1;\n                this.$nav.addClass('vc_subnav-fixed');\n            } else if ( this.scrollTop <= this.navTop && this.isFixed) {\n                this.isFixed = 0;\n                this.$nav.removeClass('vc_subnav-fixed');\n            }\n        },\n        buildRelevance:function () {\n            vc.shortcode_relevance = {};\n            _.map(vc.map, function (object) {\n                if (_.isObject(object.as_parent) && _.isString(object.as_parent.only)) {\n                    vc.shortcode_relevance['parent_only_' + object.base] = object.as_parent.only.replace(/\\s/, '').split(',');\n                }\n                if (_.isObject(object.as_parent) && _.isString(object.as_parent.except)) {\n                    vc.shortcode_relevance['parent_except_' + object.base] = object.as_parent.except.replace(/\\s/, '').split(',');\n                }\n                if (_.isObject(object.as_child) && _.isString(object.as_child.only)) {\n                    vc.shortcode_relevance['child_only_' + object.base] = object.as_child.only.replace(/\\s/, '').split(',');\n                }\n                if (_.isObject(object.as_child) && _.isString(object.as_child.except)) {\n                    vc.shortcode_relevance['child_except_' + object.base] = object.as_child.except.replace(/\\s/, '').split(',');\n                }\n            });\n            /**\n             * Check parent/children relationship between two tags\n             * @param tag\n             * @param related_tag\n             * @return boolean - Returns true if relevance is positive\n             */\n            vc.check_relevance = function (tag, related_tag) {\n                if (_.isArray(vc.shortcode_relevance['parent_only_' + tag]) && !_.contains(vc.shortcode_relevance['parent_only_' + tag], related_tag)) {\n                    return false;\n                }\n                if (_.isArray(vc.shortcode_relevance['parent_except_' + tag]) && _.contains(vc.shortcode_relevance['parent_except_' + tag], related_tag)) {\n                    return false;\n                }\n                if (_.isArray(vc.shortcode_relevance['child_only_' + related_tag]) && !_.contains(vc.shortcode_relevance['child_only_' + related_tag], tag)) {\n                    return false;\n                }\n                if (_.isArray(vc.shortcode_relevance['child_except_' + related_tag]) && _.contains(vc.shortcode_relevance['child_except' + related_tag], tag)) {\n                    return false;\n                }\n                return true;\n            };\n        }\n    });\n    $(function(){\n        if ($('#wpb_visual_composer').is('div')) {\n            var app = vc.app = new VisualComposer();\n            vc.app.checkVcStatus();\n        }\n    });\n\n\n})(window.jQuery);",
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/js_composer/assets/js/backend/composer-view.js",
+			"file_size": 34426,
+			"file_write_time": 131505591863810269,
+			"settings":
+			{
+				"buffer_size": 34426,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/aboutme.php",
+			"settings":
+			{
+				"buffer_size": 8382,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 310 files for \"intro_text\"\n\nC:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\vocatio-kleo-child\\buddypress\\members\\single\\aboutme.php:\n   20  <section class=\"text-center\">\n   21  \t\n   22: \t\t<?php the_field('intro_text', 5); ?>\n   23  \t\n   24  \t<p>\n\nC:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\vocatio-kleo-child\\functions.php:\n 3228  \t\t\t\t\t'key' => 'field_58b9cfcbf8509',\n 3229  \t\t\t\t\t'label' => 'Intro Text',\n 3230: \t\t\t\t\t'name' => 'intro_text',\n 3231  \t\t\t\t\t'type' => 'wysiwyg',\n 3232  \t\t\t\t\t'default_value' => '',\n\nC:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\vocatio-kleo-child\\lib\\options.php:\n  265  // Add HTML before the form.\n  266  $demo_link = admin_url( 'themes.php?page=kleo_import' );\n  267: $args['intro_text'] = sprintf( __('<p>Theme customisations are done here. Make sure to <a target=\"_blank\" href=\"%s\">Import Demo Content</a> first</p>', 'kleo_framework'), $demo_link );\n  268  \n  269  // Set footer/credit line.\n\n3 matches across 3 files\n\n\nSearching 310 files for \"career-fit\"\n\nC:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\vocatio-kleo-child\\buddypress\\members\\single\\fit_tests.php:\n    5  \t\n    6  \t$page = get_posts(array(\n    7: \t\t'name'      => 'career-fit',\n    8  \t\t'post_type' => 'page'\n    9  \t));\n\nC:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\vocatio-kleo-child\\buddypress\\members\\single\\fit_tests_old.php:\n    4  \t\n    5  \t$page = get_posts(array(\n    6: \t\t'name'      => 'career-fit',\n    7  \t\t'post_type' => 'page'\n    8  \t));\n\n2 matches across 2 files\n\n\nSearching 310 files for \"personality-introduction\"\n\nC:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\vocatio-kleo-child\\buddypress\\members\\single\\fit_tests.php:\n  334  \t\t\t\t\t\t\t$('.personalityDimensions').show();\n  335  \n  336: \t\t\t\t\t\t\t$('.personality-introduction').html(cleanUp(data.introduction));\n  337  \t\t\t\t\t\t\t$('.personality-traits').html(cleanUp(data.traits_introduction));\n  338  \n\nC:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\vocatio-kleo-child\\buddypress\\members\\single\\fit_tests_old.php:\n  161  \t\t\t\t\t\t\t$('.personalityDimensions').show();\n  162  \n  163: \t\t\t\t\t\t\t$('.personality-introduction').html(cleanUp(data.introduction));\n  164  \t\t\t\t\t\t\t$('.personality-traits').html(cleanUp(data.traits_introduction));\n  165  \n\n2 matches across 2 files\n\n\nSearching 310 files for \"DB_CHARSET\"\n\n0 matches\n\nSearching 310 files for \"fit_intro\"\n\n0 matches\n\nSearching 310 files for \"intro_fit\"\n\n0 matches\n\nSearching 310 files for \"intro_text\"\n\nC:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\vocatio-kleo-child\\buddypress\\members\\single\\aboutme.php:\n   20  <section class=\"text-center\">\n   21  \t\n   22: \t\t<?php the_field('intro_text', 5); ?>\n   23  \t\n   24  \t<p>\n\nC:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\vocatio-kleo-child\\functions.php:\n 3260  \t\t\t\t\t'key' => 'field_58b9cfcbf8509',\n 3261  \t\t\t\t\t'label' => 'Student Intro Text',\n 3262: \t\t\t\t\t'name' => 'intro_text',\n 3263  \t\t\t\t\t'type' => 'wysiwyg',\n 3264  \t\t\t\t\t'default_value' => '',\n\nC:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\vocatio-kleo-child\\lib\\options.php:\n  265  // Add HTML before the form.\n  266  $demo_link = admin_url( 'themes.php?page=kleo_import' );\n  267: $args['intro_text'] = sprintf( __('<p>Theme customisations are done here. Make sure to <a target=\"_blank\" href=\"%s\">Import Demo Content</a> first</p>', 'kleo_framework'), $demo_link );\n  268  \n  269  // Set footer/credit line.\n\n3 matches across 3 files\n\n\nSearching 310 files for \"join-group\"\n\nC:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\vocatio-kleo-child\\page-parts\\career-groups\\sidebar.php:\n   23  \t\t\t\t\techo '\n   24  \t\t\t\t\t\t<p>\n   25: \t\t\t\t\t\t\t<a id=\"group-'.esc_attr($group->id).'\" class=\"join-group\" rel=\"join\" title=\"'. __('Join Group','buddypress').'\" href=\"'.wp_nonce_url(bp_get_group_permalink($group).'join','groups_join_group').'\">\n   26  \t\t\t\t\t\t\t\t<img class=\"size-full wp-image-3803 alignright\" src=\"'.$joinimg.'\" alt=\"accountant-join-career\" width=\"185\" height=\"33\" />\n   27  \t\t\t\t\t\t\t</a>\n\n1 match in 1 file\n",
+			"settings":
+			{
+				"buffer_size": 4067,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/student-profile.php",
+			"settings":
+			{
+				"buffer_size": 12189,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/js/login.js",
+			"settings":
+			{
+				"buffer_size": 11753,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/aboutme/basic-info-tab.php",
+			"settings":
+			{
+				"buffer_size": 10082,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/css/buddypress/members/single/aboutme.css",
+			"settings":
+			{
+				"buffer_size": 8444,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/aboutme/ideals-modal.php",
+			"settings":
+			{
+				"buffer_size": 2411,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"qui",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"pul",
+				"Git: Pull"
+			],
+			[
+				"a",
+				"Git: Add..."
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git pul",
+				"Git: Pull"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"remov",
+				"Project Manager: Remove Project"
+			],
+			[
+				"merg",
+				"Git: Merge Branch"
+			],
+			[
+				"git chang",
+				"Git: Change Branch"
+			],
+			[
+				"git qu",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"chan",
+				"Git: Change Branch"
+			],
+			[
+				"remove pro",
+				"Project Manager: Remove Project"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git new",
+				"Git: New Branch"
+			],
+			[
+				"new pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"new",
+				"Project Manager: Add New Project"
+			],
+			[
+				"new proje",
+				"Project Manager: Add New Project"
+			],
+			[
+				"add",
+				"Project Manager: Add New Project"
+			],
+			[
+				"proj",
+				"Project Manager: Add New Project"
+			],
+			[
+				"da",
+				"Git: Diff All Files"
+			],
+			[
+				"git cha",
+				"Git: Change Branch"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			]
+		],
+		"width": 725.0
+	},
+	"console":
+	{
+		"height": 283.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Program Files (x86)/Ampps/www/vocatio",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress"
+	],
+	"file_history":
+	[
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/js_composer/assets/js/editors/panels.js",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/fit_tests.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/fit-tests/job_fit_reports.php",
+		"/C/Users/Roman/Desktop/backup_careerfit_page",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/js_composer/include/templates/shortcodes/vc_raw_html.php",
+		"/C/Users/Roman/AppData/Local/Temp/Temp1_js_composer.zip/js_composer/index.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/debug.log",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/this-week.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/this-week/posts.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-groups/bp-groups-functions.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-groups/bp-groups-template.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-xprofile/classes/class-bp-xprofile-profiledata.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-xprofile/bp-xprofile-functions.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-xprofile/bp-xprofile-template.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-members/bp-members-functions.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-members/bp-members-template.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-xprofile/classes/class-bp-xprofile-field.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-admin/css/login.css",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/wp-config 2.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/functions.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/css/buddypress/members/single/fit_test.css",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/industry_groups.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/berke/berke-api.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/industry-groups.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/fit-tests/cognitive_results.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-templates/bp-legacy/css/twentyten.scss",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/berke/berke-api-handler.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/groups/single/index.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/css/buddypress/members/single/company-recruiters.css",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/style.css",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/css/main.css",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-includes/functions.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-core/bp-core-taxonomy.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-groups/classes/class-bp-groups-group.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-includes/media.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-includes/post-thumbnail-template.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/advanced-custom-fields/core/api.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child/includes/events/js/ne-events.js",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/assets/js/ne-common.js",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/dossier/sidebar.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/company-recruiters-list.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/company-recruiters-add-new.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/student-home.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/this-week/header-stats.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/company-profile/job_listings-student.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/company-profile/banner.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/company-profile/job_listings.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/company-profile/sidebar.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/css/buddypress/members/single/this-week.css",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress-followers/_inc/bp-follow-functions.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/this-week/following.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/aboutme.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/home.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/recruiters.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-messages/classes/class-bp-messages-message.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-messages/bp-messages-functions.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-core/bp-core-avatars.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-messages/classes/class-bp-messages-thread.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-messages/bp-messages-template.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/messages/messages-loop.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/messages/single.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-messages/bp-messages-notifications.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-notifications/bp-notifications-functions.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-messages/bp-messages-screens.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/companies.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-includes/widgets.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/kleo/kleo-framework/lib/class-multiple-sidebars.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/career_groups.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-core/classes/class-bp-user-query.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/browse-students.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/dossier.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/company-info.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/company-student-matches.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/coming-soon.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/career-groups.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/fit-tests/assessment-not-taken.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/js/berke-api.js",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/dossier/banner-recruiter.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/berke/berke-admin.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/lib/options.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/lib/shortcodes.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/company-profile.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/career-groups/banner.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/kleo/lib/theme-functions.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-core/bp-core-functions.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/css/buddypress/members/single/dossier.css",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/single-recruiters.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/berke/berke-functions.php",
+		"/C/Program Files (x86)/Ampps/apache/logs/error.log",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-includes/post-template.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/dossier/private-profile/skills.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-includes/user.php",
+		"/C/Users/Roman/Desktop/functions.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/functions-2.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/kleo/buddypress/buddypress-functions.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-core/bp-core-template.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-core/bp-core-catchuri.php",
+		"/C/Users/Roman/Google Drive/DEV/snippets/php/get_inner_str_content.php",
+		"/C/Users/Roman/Google Drive/DEV/snippets/php/preg_match.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-core/deprecated/2.2.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/company-career-groups/all.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/this-week/high-student-matches.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/career-groups/home-tab.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-includes/post.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/aboutme/project-files.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/this-week/tracked-industry-groups.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/groups/single/home.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/frontend-uploader/lib/js/validate/jquery.validate.js",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/frontend-uploader/lib/js/frontend-uploader.js",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/frontend-uploader/frontend-uploader.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/student-profile.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/css/buddypress/members/single/company-profile.css",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-config.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/wp-migrate-db/class/wpmdb-base.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/frontend-uploader/lib/js/underscore.string.js",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/kleo/buddypress/groups/index.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/js/app.js",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/career-groups/sidebar.php",
+		"/C/Users/Roman/Google Drive/DEV/snippets/php/sorting.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/profile.php",
+		"/C/Users/Roman/Google Drive/DEV/snippets/wordpress/visual-composer.php",
+		"/C/Users/Roman/Google Drive/DEV/snippets/wordpress/tiny_mce_load_in_popup.php",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/themes/kleo-child/includes/communities/js/ne-community.js",
+		"/C/Program Files (x86)/Ampps/www/newearthnation/wp-content/assets/php/theme-functions.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/company-recruiters-list"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"C:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\vocatio-kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\plugins\\buddypress",
+			"C:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\vocatio-kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\plugins\\buddypress",
+			"C:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\vocatio-kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\plugins\\buddypress",
+			"C:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\vocatio-kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\plugins\\buddypress",
+			"C:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\vocatio-kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\plugins\\buddypress",
+			"C:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\vocatio-kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\plugins\\buddypress",
+			"C:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\vocatio-kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\vocatio-kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\vocatio-kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\plugins\\buddypress",
+			"C:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\vocatio-kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\vocatio-kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\kleo",
+			"C:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\vocatio-kleo-child",
+			"C:\\Program Files (x86)\\Ampps\\www\\vocatio\\wp-content\\themes\\vocatio-kleo-child\\berke",
+			"C:\\Program Files (x86)\\Ampps\\www\\Knight-Global-Website",
+			"C:\\Program Files (x86)\\Ampps\\www\\bookcapture\\wp-includes",
+			"C:\\Program Files (x86)\\Ampps\\www\\bookcapture\\wp-content\\themes\\i-excel",
+			"C:\\Program Files (x86)\\Ampps\\www\\bookcapture\\wp-content\\plugins\\geo-my-wp",
+			"C:\\Program Files (x86)\\Ampps\\www\\bookcapture\\wp-includes",
+			"C:\\Program Files (x86)\\Ampps\\www\\bookcapture\\",
+			"C:\\Program Files (x86)\\Ampps\\www\\bookcapture\\wp-content\\themes\\i-excel",
+			"C:\\Program Files (x86)\\Ampps\\www\\abimultisite\\wp-content\\themes\\abi",
+			"C:\\Program Files (x86)\\Ampps\\www\\anitaborg\\wp-content\\themes\\abi-dot-local"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Company",
+			"data",
+			"job fit",
+			"font-family: Roboto Condensed;",
+			".col-sm-12",
+			"btn",
+			"join-group",
+			"join",
+			"font-size: 16px;",
+			"#main .btn-default-drop .dropdown-menu>li>a",
+			"max-width",
+			"student",
+			"intro_text",
+			"sm",
+			"personality_fit",
+			"intro_text",
+			"personality_fit",
+			"fit_intro",
+			"fit-intro",
+			"intro_fit",
+			"fit_intro",
+			"vocatioPersonalityFitIntroBlock",
+			"personality_fit",
+			"personality_fit_video",
+			"personality_fit",
+			"DB_CHARSET",
+			"getDefaults",
+			"options",
+			"templateOptions",
+			"default",
+			"html",
+			"personality-introduction",
+			"career-fit",
+			"register_",
+			"careerfit",
+			"fit_resu",
+			"fit_Results",
+			"register_field_group",
+			"intro_text",
+			"Your Dossier is your chance",
+			"intro_text",
+			"$currentUserRole",
+			"popup-iframe",
+			"home.css",
+			"btn-see-through",
+			"add_query_arg",
+			"bp_core_get_userlink",
+			"vocatioUserUpdateIndustries",
+			"alternative_name",
+			"get_ideals_list",
+			"vocatioGetIdealsList",
+			"results",
+			"alternative_name",
+			"login.js",
+			"alternative_name",
+			"ssl",
+			"SITE_URL",
+			"\n\t",
+			"redirect",
+			"26, $user_id, $idealIndustry, $nowTime",
+			"$idealIndustry",
+			"idealIndustry",
+			"idealCompanyTypeInput",
+			".data",
+			"company",
+			"idealIndustryInput",
+			"idealCompany",
+			"idealCompanyInput",
+			"toggleClass",
+			"idealIndustry",
+			"update",
+			"idealIndustry",
+			"redirect",
+			"INNER JOIN",
+			"xprofile_set_field_data",
+			"xprofile",
+			"login.js",
+			"idealCompanyType",
+			"companyType",
+			"insert",
+			"$",
+			"quickSave",
+			"vocatioSaveAboutMe",
+			"save",
+			"xprofile_set_field_data",
+			"save",
+			"profile_data",
+			"idealCompanyType",
+			"aboutme",
+			"idealCompanyType",
+			"idealCompanyTypeInput",
+			"vocatioAddUserIdeals",
+			"idealIndustry",
+			"$idealIndustry",
+			"login.js",
+			"idealCompanyType",
+			"industry_groups",
+			"idealIndustry",
+			"redirect",
+			"WHAT ARE YOU INTERESTED IN",
+			"vocatioUserUpdateIndustries",
+			"idealCompanyType",
+			"save",
+			"select2-selection__choice__remove",
+			"grid",
+			"vocatioUserUpdateIndustries",
+			"is_update",
+			"idealIndustry",
+			"dreamJobQuestionnaire",
+			"studentSignupButton ",
+			"33",
+			"30",
+			"33",
+			"dreamCompanyQuestionnaire",
+			"idealLocationInput",
+			"Location",
+			"Ideal Loc",
+			".select2-container--default .select2-selection--multiple",
+			"dreamCompanyQuestionnaire",
+			"dreamJobQuestionnaire",
+			"idealIndustryInput",
+			"vocatioIdealIndustryOptionsShortcode",
+			"IdealIndustry",
+			"vocatioIdealCompanyOptionsShortcode",
+			"data",
+			"url",
+			"dreamJobQuestionnaire",
+			"get_ideals_list"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"vocatioIdealCompanyOptionsShortcode",
+			"cognitivePopulateDimension",
+			"cognitiveTraits",
+			"cognitiveRenderCanvas",
+			"cognitiveAddImg"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3099,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								878,
+								878
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										877,
+										878
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										856,
+										857
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 133261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55949,
+								55949
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 45024.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/career_groups.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2727,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								705,
+								705
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2409,
+										2410
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										380,
+										381
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 87.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/industry_groups.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								235,
+								235
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										261,
+										262
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										234,
+										235
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 48.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/companies.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								699,
+								699
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										695,
+										698
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										582,
+										585
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/career-groups/banner.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								418,
+								418
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										449,
+										450
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										414,
+										415
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-includes/functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 174706,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109947,
+								109956
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2969.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-groups/classes/class-bp-groups-member.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 46713,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14507,
+								14507
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1457.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 32,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/groups/single/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4778,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3946,
+								3946
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 288.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 33,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								739,
+								739
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 48.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/css/buddypress/members/single/fit_test.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								299,
+								299
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										298,
+										299
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										278,
+										279
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/CSS3/CSS3.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1791,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 951.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/css/login.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12946,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12297,
+								12297
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										12298,
+										12299
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										12181,
+										12182
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/CSS3/CSS3.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 9177.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 49669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7163,
+								7163
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										7162,
+										7163
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										7138,
+										7139
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/CSS3/CSS3.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 10296.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/job_fit_reports.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2781,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2623,
+								2623
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2626,
+										2627
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2189,
+										2190
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1598.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								657,
+								657
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										656,
+										657
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										629,
+										630
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/CSS3/CSS3.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/home.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5029,
+								5029
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										5082,
+										5083
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										5023,
+										5024
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/student-home.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2891,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2548,
+								2548
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2590,
+										2591
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2499,
+										2500
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1469.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/post-content-masonry.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1076,
+								1076
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										421,
+										422
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 364.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/company-profile.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6289,
+								6289
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3429.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-members/bp-members-template.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 72937,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56158,
+								56158
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										56157,
+										56158
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										55852,
+										55853
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 47705.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/buddypress/bp-core/bp-core-template.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 106251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45455,
+								45455
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										45597,
+										45598
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										45294,
+										45295
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 38249.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/company-profile/sidebar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4850,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								545,
+								549
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										562,
+										563
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										544,
+										545
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 34,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/this-week/header-stats.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3779,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								555,
+								555
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										552,
+										554
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										266,
+										268
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/lib/options.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 77466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8993,
+								8993
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6017.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/js/vocatio.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1079,
+								1079
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1081,
+										1082
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										853,
+										854
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 603.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/css/buddypress/groups/single/home.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5058,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2149,
+								2149
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2238,
+										2239
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2018,
+										2019
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/CSS3/CSS3.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2294.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/plugins/js_composer/assets/js/backend/composer-view.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34426,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5505,
+								4469
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2499.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/aboutme.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								712,
+								712
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										708,
+										711
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										615,
+										618
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4067,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										227,
+										237
+									],
+									[
+										466,
+										476
+									],
+									[
+										757,
+										767
+									],
+									[
+										1229,
+										1239
+									],
+									[
+										1476,
+										1486
+									],
+									[
+										1807,
+										1831
+									],
+									[
+										2156,
+										2180
+									],
+									[
+										2705,
+										2715
+									],
+									[
+										2952,
+										2962
+									],
+									[
+										3243,
+										3253
+									],
+									[
+										3741,
+										3751
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								3724,
+								3724
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										3729,
+										3730
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										3718,
+										3719
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"default_dir": "C:\\Program Files (x86)\\Ampps\\www\\vocatio",
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 8,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2597.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/buddypress/members/single/student-profile.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4685.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/js/login.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11753,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								706,
+								706
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										705,
+										706
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										643,
+										644
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/aboutme/basic-info-tab.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10082,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6740,
+								6720
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										6740,
+										6741
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										6708,
+										6709
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4478.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/css/buddypress/members/single/aboutme.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8444,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/CSS3/CSS3.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 10909.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/page-parts/aboutme/ideals-modal.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1424,
+								1424
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1724,
+										1725
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1224,
+										1225
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 713.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 184.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 142.0
+	},
+	"pinned_build_system": "",
+	"project": "Vocatio.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"functions",
+				"wp-content\\themes\\vocatio-kleo-child\\functions.php"
+			],
+			[
+				"fit_test",
+				"wp-content\\themes\\vocatio-kleo-child\\buddypress\\members\\single\\fit_tests.php"
+			],
+			[
+				"job_fit",
+				"wp-content\\themes\\vocatio-kleo-child\\page-parts\\job_fit_reports.php"
+			],
+			[
+				"main.",
+				"wp-content\\themes\\vocatio-kleo-child\\css\\main.css"
+			],
+			[
+				"vocatio-kleo-child/style",
+				"wp-content\\themes\\vocatio-kleo-child\\style.css"
+			],
+			[
+				"main.c",
+				"wp-content\\themes\\vocatio-kleo-child\\css\\main.css"
+			],
+			[
+				"wp-config",
+				"wp-config.php"
+			],
+			[
+				"functions.php",
+				"wp-content\\themes\\vocatio-kleo-child\\functions.php"
+			],
+			[
+				"fit_",
+				"wp-content\\themes\\vocatio-kleo-child\\buddypress\\members\\single\\fit_tests.php"
+			],
+			[
+				"home.ph",
+				"wp-content\\themes\\vocatio-kleo-child\\buddypress\\members\\single\\home.php"
+			],
+			[
+				"main.css",
+				"wp-content\\themes\\vocatio-kleo-child\\css\\main.css"
+			],
+			[
+				"buddy",
+				"wp-content\\themes\\vocatio-kleo-child\\buddypress.php"
+			],
+			[
+				"home.css",
+				"wp-content\\themes\\vocatio-kleo-child\\css\\buddypress\\groups\\single\\home.css"
+			],
+			[
+				"login.c",
+				"wp-content\\themes\\vocatio-kleo-child\\css\\login.css"
+			],
+			[
+				"login.css",
+				"wp-admin\\css\\login.css"
+			],
+			[
+				"login.js",
+				"wp-content\\themes\\vocatio-kleo-child\\js\\login.js"
+			],
+			[
+				"lign.j",
+				"wp-content\\themes\\vocatio-kleo-child\\js\\login.js"
+			],
+			[
+				"functions.",
+				"wp-content\\themes\\vocatio-kleo-child\\functions.php"
+			],
+			[
+				"industry_g",
+				"wp-content\\themes\\vocatio-kleo-child\\buddypress\\members\\single\\industry_groups.php"
+			],
+			[
+				"berke-a",
+				"wp-content\\themes\\vocatio-kleo-child\\berke\\berke-api.php"
+			],
+			[
+				"buddypress",
+				"wp-content\\themes\\vocatio-kleo-child\\buddypress.php"
+			],
+			[
+				"buddypress.csss",
+				"wp-content\\plugins\\buddypress\\bp-templates\\bp-legacy\\css\\twentyten.scss"
+			],
+			[
+				"fit_tes",
+				"wp-content\\themes\\vocatio-kleo-child\\css\\buddypress\\members\\single\\fit_test.css"
+			],
+			[
+				"buddyp",
+				"wp-content\\themes\\vocatio-kleo-child\\buddypress.php"
+			],
+			[
+				"berke-ap",
+				"wp-content\\themes\\vocatio-kleo-child\\berke\\berke-api.php"
+			],
+			[
+				"fit",
+				"wp-content\\themes\\vocatio-kleo-child\\buddypress\\members\\single\\fit_tests.php"
+			],
+			[
+				"companies.",
+				"wp-content\\themes\\vocatio-kleo-child\\buddypress\\members\\single\\companies.php"
+			],
+			[
+				"fit_test.cs",
+				"wp-content\\themes\\vocatio-kleo-child\\css\\buddypress\\members\\single\\fit_test.css"
+			],
+			[
+				"mainc",
+				"wp-content\\themes\\vocatio-kleo-child\\css\\main.css"
+			],
+			[
+				"assessment-no",
+				"wp-content\\themes\\vocatio-kleo-child\\page-parts\\fit-tests\\assessment-not-taken.php"
+			],
+			[
+				"berkea",
+				"wp-content\\themes\\vocatio-kleo-child\\berke\\berke-api.php"
+			],
+			[
+				"main.cs",
+				"wp-content\\themes\\vocatio-kleo-child\\css\\main.css"
+			],
+			[
+				"recruier",
+				"wp-content\\themes\\vocatio-kleo-child\\buddypress\\members\\single\\recruiters.php"
+			],
+			[
+				"members/home",
+				"wp-content\\themes\\vocatio-kleo-child\\buddypress\\members\\single\\home.php"
+			],
+			[
+				"groups/index",
+				"wp-content\\themes\\kleo\\buddypress\\groups\\index.php"
+			],
+			[
+				"high-sc",
+				"wp-content\\themes\\vocatio-kleo-child\\page-parts\\this-week\\high-student-matches.php"
+			],
+			[
+				"this-wee",
+				"wp-content\\themes\\vocatio-kleo-child\\buddypress\\members\\single\\this-week.php"
+			],
+			[
+				"wp-co",
+				"wp-config.php"
+			],
+			[
+				"company-profil",
+				"wp-content\\themes\\vocatio-kleo-child\\css\\buddypress\\members\\single\\company-profile.css"
+			],
+			[
+				"this-w",
+				"wp-content\\themes\\vocatio-kleo-child\\css\\buddypress\\members\\single\\this-week.css"
+			],
+			[
+				"sidebar.php",
+				"wp-content\\themes\\vocatio-kleo-child\\page-parts\\company-profile\\sidebar.php"
+			],
+			[
+				"this-week",
+				"wp-content\\themes\\vocatio-kleo-child\\css\\buddypress\\members\\single\\this-week.css"
+			],
+			[
+				"app.js",
+				"wp-content\\themes\\vocatio-kleo-child\\js\\app.js"
+			],
+			[
+				"group-fun",
+				"wp-content\\plugins\\buddypress\\bp-groups\\bp-groups-functions.php"
+			],
+			[
+				"this-week.cs",
+				"wp-content\\themes\\vocatio-kleo-child\\css\\buddypress\\members\\single\\this-week.css"
+			],
+			[
+				"buddypress.p",
+				"wp-content\\themes\\vocatio-kleo-child\\buddypress.php"
+			],
+			[
+				"header-st",
+				"wp-content\\themes\\vocatio-kleo-child\\page-parts\\this-week\\header-stats.php"
+			],
+			[
+				"high-stu",
+				"wp-content\\themes\\vocatio-kleo-child\\page-parts\\this-week\\high-student-matches.php"
+			],
+			[
+				"group-funct",
+				"wp-content\\plugins\\buddypress\\bp-groups\\bp-groups-functions.php"
+			],
+			[
+				"single-rec",
+				"wp-content\\themes\\vocatio-kleo-child\\single-recruiters.php"
+			],
+			[
+				"func",
+				"wp-content\\themes\\vocatio-kleo-child\\functions.php"
+			],
+			[
+				"recruiters.ph",
+				"wp-content\\themes\\vocatio-kleo-child\\buddypress\\members\\single\\recruiters.php"
+			],
+			[
+				"group-he",
+				"wp-content\\themes\\kleo\\buddypress\\groups\\single\\group-header.php"
+			],
+			[
+				"general-aft",
+				"wp-content\\themes\\kleo\\page-parts\\general-after-wrap.php"
+			],
+			[
+				"berke",
+				"wp-content\\themes\\vocatio-kleo-child\\berke\\berke-api.php"
+			],
+			[
+				"widget",
+				"wp-content\\themes\\vocatio-kleo-child\\js\\widgets.js"
+			],
+			[
+				"functions.p",
+				"wp-content\\themes\\vocatio-kleo-child\\functions.php"
+			],
+			[
+				"home.php",
+				"wp-content\\plugins\\buddypress\\bp-themes\\bp-default\\members\\single\\home.php"
+			],
+			[
+				"vicatio.",
+				"wp-content\\themes\\vocatio-kleo-child\\js\\vocatio.js"
+			],
+			[
+				"style.css",
+				"wp-content\\themes\\book-capture\\style.css"
+			],
+			[
+				"ad",
+				"wp-content\\plugins\\advanced-custom-fields\\lang\\acf-de_DE.mo"
+			],
+			[
+				"exte",
+				"wp-content\\themes\\abi-dot-local\\css\\extend.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Roman\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Projects\\anitab.org.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 552.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

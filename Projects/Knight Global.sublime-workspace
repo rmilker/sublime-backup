@@ -1,0 +1,972 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"overfl",
+				"overflow-x"
+			],
+			[
+				"owlth",
+				"owl-thumb-item"
+			],
+			[
+				"owl-thu",
+				"owl-thumb-item"
+			],
+			[
+				"justify",
+				"justify-content"
+			],
+			[
+				"section-pro",
+				"section-product-info"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"left",
+				"left-half"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"column",
+				"column-count"
+			],
+			[
+				"com-s",
+				"comm-subsection\tComment - Subsection comment"
+			],
+			[
+				"hideon",
+				"hideonphone\t(index.html)"
+			],
+			[
+				"justiyf",
+				"justify-content"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"white",
+				"white-space"
+			],
+			[
+				"seciton-prou",
+				"section-products-title\t(index.html)"
+			],
+			[
+				"parall",
+				"parallax_image"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"tranls",
+				"translateY\t(style.css)"
+			],
+			[
+				"comm-s",
+				"comm-subsection\tComment - Subsection comment"
+			],
+			[
+				"comm-sec",
+				"comm-section\tComment - Full section comment"
+			],
+			[
+				"gform_pre_",
+				"gform_pre_render_5\t(gravity_forms.php)"
+			],
+			[
+				"get_user",
+				"get_user_by"
+			],
+			[
+				"revie",
+				"review_author"
+			],
+			[
+				"wp_get_curr",
+				"wp_get_current_user\t(comment-template.php)"
+			],
+			[
+				"padding-b",
+				"padding-bottom"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"window",
+				"window).load\t(functions.php)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/Knight-Global-Website/air_balancers.html",
+			"settings":
+			{
+				"buffer_size": 37082,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/Knight-Global-Website/kba_kbc_series.html",
+			"settings":
+			{
+				"buffer_size": 60238,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/Knight-Global-Website/js/script.js",
+			"settings":
+			{
+				"buffer_size": 16604,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "push",
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"new",
+				"Project Manager: Add New Project"
+			],
+			[
+				"new proje",
+				"Project Manager: Add New Project"
+			],
+			[
+				"qui",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git chang",
+				"Git: Change Branch"
+			],
+			[
+				"add",
+				"Project Manager: Add New Project"
+			],
+			[
+				"proj",
+				"Project Manager: Add New Project"
+			],
+			[
+				"da",
+				"Git: Diff All Files"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git cha",
+				"Git: Change Branch"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			]
+		],
+		"width": 725.0
+	},
+	"console":
+	{
+		"height": 176.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website",
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website/js",
+		"/C/Program Files (x86)/Ampps/www/Knight-Website-9-13",
+		"/C/Program Files (x86)/Ampps/www/Knight-Website-9-13/js"
+	],
+	"file_history":
+	[
+		"/C/Users/Roman/Desktop/.htaccess",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/attachment.php",
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website/js/html5shiv.js",
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website/css/easy-responsive-tabs.css",
+		"/C/Users/Roman/AppData/Local/Temp/Temp1_9-28-Knight-Global-Website.zip/Knight-Global-Website/css/easy-responsive-tabs.css",
+		"/C/Program Files (x86)/Ampps/www/Knight-Website-9-13/css/easy-responsive-tabs.css",
+		"/C/Program Files (x86)/Ampps/www/Knight-Website-9-13/css/style.css",
+		"/C/Program Files (x86)/Ampps/www/Knight-Website-9-13/js/script.js",
+		"/C/Program Files (x86)/Ampps/www/Knight-Website-9-13/index.html",
+		"/C/Program Files (x86)/Ampps/www/Knight-Website-9-13/kba_kbc_series.html",
+		"/C/Program Files (x86)/Ampps/www/Knight-Website-9-13/air_balancers.html",
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website/js/script.js",
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website/css/camera.css",
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website/css/grid.css",
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website/dropdown/css/component.css",
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website/css/videomedia.css",
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website/dropdown/js/classie.js",
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website/dropdown/js/gnmenu.js",
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website/kba_kbc_series.html",
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website/css/style.css",
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website/index.html",
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website/air_balancers.html",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website/js/jquery.floatThead.min.js",
+		"/C/Users/Roman/Desktop/index.backup.html",
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website/js/jquery.js",
+		"/C/Users/Roman/Desktop/script.js",
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website-Original/index.html",
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website/js/tmstickup.js",
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website-Original/js/script.js",
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website/js/jquery.rd-parallax.js",
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website/js/camera.js",
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website/js/jquery.rd-navbar.js",
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website/js/superfish.js",
+		"/C/Users/Roman/Google Drive/DEV/snippets/js/google_maps.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-config-sample.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-config.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/functions.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/berke/berke-api.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/berke/berke-admin.php",
+		"/C/Program Files (x86)/Ampps/www/vocatio/wp-content/themes/vocatio-kleo-child/berke/berke-functions.php",
+		"/C/Program Files (x86)/Ampps/www/celebration.pointe/wp-content/themes/celebrationpointe/js/functions.js",
+		"/C/Program Files (x86)/Ampps/www/Knight-Global-Website/dropdown/index.html",
+		"/C/Program Files (x86)/Ampps/www/celebration.pointe/wp-content/themes/celebrationpointe/celebrate.php",
+		"/C/Program Files (x86)/Ampps/www/celebration.pointe/wp-content/themes/celebrationpointe/ourstory.php",
+		"/C/Program Files (x86)/Ampps/www/celebration.pointe/wp-content/themes/celebrationpointe/leasing.php",
+		"/C/Program Files (x86)/Ampps/www/cppi/wp-content/themes/mantyframe/page-portfolio.php",
+		"/C/Program Files (x86)/Ampps/www/cppi/wp-content/themes/mantyframe/page-inquiries.php",
+		"/C/Program Files (x86)/Ampps/www/cppi/wp-content/themes/mantyframe/page-careers.php",
+		"/C/Users/Roman/Google Drive/DEV/snippets/js/google_maps.js",
+		"/C/Program Files (x86)/Ampps/www/isla/wp-content/themes/kleo-child/gravity_forms.php",
+		"/C/Program Files (x86)/Ampps/www/isla/wp-content/themes/kleo-child/geo-my-wp.php",
+		"/C/Program Files (x86)/Ampps/www/bookcapture/wp-includes/post-template.php",
+		"/C/Program Files (x86)/Ampps/www/bookcapture/wp-includes/class-simplepie.php",
+		"/C/Program Files (x86)/Ampps/www/bookcapture/wp-includes/link-template.php",
+		"/C/Program Files (x86)/Ampps/www/bookcapture/wp-content/plugins/geo-my-wp/plugins/posts/search-results/clean/results.php",
+		"/C/Program Files (x86)/Ampps/www/bookcapture/wp-content/themes/book-capture/style.css",
+		"/C/Program Files (x86)/Ampps/www/bookcapture/wp-includes/comment-template.php",
+		"/C/Program Files (x86)/Ampps/www/bookcapture/wp-includes/comment.php",
+		"/C/Program Files (x86)/Ampps/www/bookcapture/wp-includes/post.php",
+		"/C/Program Files (x86)/Ampps/www/bookcapture/wp-content/plugins/geo-my-wp/plugins/posts/includes/gmw-pt-search-query-class.php",
+		"/C/Program Files (x86)/Ampps/www/bookcapture/wp-content/themes/book-capture/functions.php",
+		"/C/Program Files (x86)/Ampps/www/bookcapture/wp-content/plugins/comment-rating-field-plugin/includes/global/rating-input.php",
+		"/C/Program Files (x86)/Ampps/www/bookcapture/wp-includes/user.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-3/comments.php",
+		"/C/Program Files (x86)/Ampps/www/bookcapture/wp-content/themes/book-capture/comments.php",
+		"/C/Program Files (x86)/Ampps/www/bookcapture/wp-content/themes/i-excel/single.php",
+		"/C/Users/Roman/Google Drive/DEV/snippets/gravity_forms/gw-gravity-forms-submission-limit.php",
+		"/C/Program Files (x86)/Ampps/www/bookcapture/wp-content/themes/book-capture/gforms-submission-limit.php",
+		"/C/Users/Roman/Google Drive/DEV/snippets/gmw/plugin-geomywp-1.php",
+		"/C/Users/Roman/Google Drive/DEV/snippets/gmw/plugin-geomywp.php",
+		"/C/Program Files (x86)/Ampps/www/bookcapture/htaccess",
+		"/C/Program Files (x86)/Ampps/www/bookcapture/.htaccess",
+		"/C/Program Files (x86)/Ampps/www/bookcapture/wp-config.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/assets/css/common.css",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/library/css/style.css",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/header.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc-gracehopper/header.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/header.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-includes/functions.wp-styles.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/functions.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/library/custom-post-type-impact.php",
+		"/C/Program Files (x86)/Ampps/www/ivirtualtrainers/wp-content/themes/boss-child/learndash/learndash-buddypress/courses.php",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/js/custom-scripts.js",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/js/abi-script.js",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/css/custom.css",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/css/extend.css",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/functions.php",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/functions-extend.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-3/functions.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-3/functions-extend.php",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/advanced-custom-fields/lang/acf-de_DE.mo"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"C:\\Program Files (x86)\\Ampps\\www\\Knight-Global-Website",
+			"C:\\Program Files (x86)\\Ampps\\www\\bookcapture\\wp-includes",
+			"C:\\Program Files (x86)\\Ampps\\www\\bookcapture\\wp-content\\themes\\i-excel",
+			"C:\\Program Files (x86)\\Ampps\\www\\bookcapture\\wp-content\\plugins\\geo-my-wp",
+			"C:\\Program Files (x86)\\Ampps\\www\\bookcapture\\wp-includes",
+			"C:\\Program Files (x86)\\Ampps\\www\\bookcapture\\",
+			"C:\\Program Files (x86)\\Ampps\\www\\bookcapture\\wp-content\\themes\\i-excel",
+			"C:\\Program Files (x86)\\Ampps\\www\\abimultisite\\wp-content\\themes\\abi",
+			"C:\\Program Files (x86)\\Ampps\\www\\anitaborg\\wp-content\\themes\\abi-dot-local"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".product-list-grid",
+			"ChildVerticalTab_4",
+			"tab_content",
+			"adjustProductCellHeight",
+			"wow",
+			"ver_2",
+			"resp-tabs-list",
+			"ChildVerticalTab_1",
+			"parentVertical",
+			"parentHorizontalTab",
+			"ver_1",
+			".resp-tabs-container .tabs-list-title",
+			"resp-tabs-container",
+			"product-sticky-list",
+			"Testing Header",
+			"product-table-header-wrap",
+			"parentHorizontalTab",
+			"ChildVerticalTab_1",
+			"parentVerticalTab",
+			"actual",
+			"product-table-header-wrap",
+			"$('.product-list-grid')",
+			"responsive",
+			"device",
+			"table.product-list-table, table.product-table-header",
+			"adjustStickyListHeight",
+			"adjustProductCellHeight",
+			"product-list-grid",
+			"div.product-table-wrap",
+			"table-header",
+			"scroll-ghost",
+			"product-list-grid",
+			"productScrollEvents",
+			"table.product-table-header",
+			"product-list-grid",
+			"div.product-table-wrap",
+			".product-table-header-wrap",
+			"div.product-table-wrap",
+			"adjustStickyListHeight",
+			"adjustProductTableHeader",
+			"td",
+			"table.product-list-table td",
+			".product-list-grid",
+			"product-list-grid",
+			".product-list-grid",
+			"margin-top: 4",
+			"margin-top:",
+			".section-contact .section-title",
+			"transform",
+			"transform: translate",
+			"jquery.min.map",
+			".product-list-grid",
+			"tiq-quot",
+			"tiq-quote-sec",
+			"#blank-row",
+			"tiq-page-features",
+			"product-table-header-wrap",
+			"adjustStickyListHeight",
+			"product-sticky-list",
+			"adjustProductCellHeight",
+			"adjustStickyListHeight",
+			"product-table-header-wrap",
+			"product-table-wrap",
+			"255",
+			"div>",
+			"table.product-list-table td",
+			"section-contact",
+			"contact",
+			"product-table-header-wrap",
+			"td",
+			"table.product-list-table td",
+			"div.product-table-wrap",
+			"table.product-list-table td",
+			".resp-tabs-container .product-sticky-list li",
+			"<div>",
+			"div",
+			"product-sticky-list",
+			"th",
+			"product-table-wrap",
+			"$",
+			"gn-icon gn-icon-photoshop",
+			"product-table-wrap",
+			"overflow-x",
+			",",
+			"video",
+			"60px",
+			" translateY(-50%);",
+			"#my-video",
+			"header .stuck_container",
+			".section-product-info .owl-carousel .owl-thumbs",
+			"justify",
+			"panel",
+			"open",
+			".page-product-category .section-about .section-content > iframe",
+			"#tabpanelcontainer",
+			".section-contact .section-content > div",
+			".product-grid .product-grid-item",
+			".section-contact",
+			".section-contac",
+			"youtube",
+			"isStuck",
+			"isSTuck",
+			"main",
+			".section-title",
+			"section-offers",
+			"gn-menu",
+			"gn-submenu",
+			"kg",
+			"lbs",
+			"28 in [711mm]",
+			"d",
+			"colspan=\"1\"",
+			"colspan=\"2\"",
+			"table",
+			"features",
+			"features and",
+			"tabs-features",
+			".width",
+			"canera",
+			"camera",
+			"camera_pag",
+			"jQuery",
+			"console",
+			".owl-",
+			"-item",
+			"resp-tabs-container",
+			"tabs-list-title",
+			".marked-list"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Program Files (x86)/Ampps/www/Knight-Global-Website/air_balancers.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37082,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								925,
+								925
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Program Files (x86)/Ampps/www/Knight-Global-Website/kba_kbc_series.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 60238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27846,
+								27846
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Program Files (x86)/Ampps/www/Knight-Global-Website/js/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16604,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								361,
+								361
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 142.0
+	},
+	"pinned_build_system": "",
+	"project": "Knight Global.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"style",
+				"Knight-Website-9-13\\css\\style.css"
+			],
+			[
+				"air",
+				"air_balancers.html"
+			],
+			[
+				"jquery.",
+				"js\\jquery.js"
+			],
+			[
+				"eas",
+				"css\\easy-responsive-tabs.css"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"script",
+				"js\\script.js"
+			],
+			[
+				"script.",
+				"js\\script.js"
+			],
+			[
+				"style.",
+				"css\\style.css"
+			],
+			[
+				"comonent",
+				"dropdown\\css\\component.css"
+			],
+			[
+				"style.css",
+				"wp-content\\themes\\book-capture\\style.css"
+			],
+			[
+				"ad",
+				"wp-content\\plugins\\advanced-custom-fields\\lang\\acf-de_DE.mo"
+			],
+			[
+				"exte",
+				"wp-content\\themes\\abi-dot-local\\css\\extend.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Roman\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Projects\\anitab.org.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 541.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

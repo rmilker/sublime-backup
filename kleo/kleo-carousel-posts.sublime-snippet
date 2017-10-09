@@ -1,0 +1,28 @@
+<snippet>
+	<content><![CDATA[
+<div class="kleo-carousel-container">
+    <div class="kleo-carousel-items kleo-carousel-post" data-min-items="1" data-max-items="1">
+    <ul class="kleo-carousel">
+      <?php
+        foreach (\$items as \$item) {
+            ?>
+            <li>
+                <a class="img_bg_slider" href="<?php  echo get_the_permalink($item);?>" style="background-image:url(<?php echo wp_get_attachment_image_url( get_post_thumbnail_id(\$item) );?>)">
+                <?php  echo get_the_post_thumbnail( \$item,'dogthumb' );?>
+                </a>
+            </li>
+        <?php } ?>
+    </ul>
+    </div>
+
+    <div class="carousel-arrow">
+        <a class="carousel-prev" href="#"><i class="icon-angle-left"></i></a>
+        <a class="carousel-next" href="#"><i class="icon-angle-right"></i></a>
+    </div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>kleo-carousel-post</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

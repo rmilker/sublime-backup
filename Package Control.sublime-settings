@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Autoprefixer",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Comment-Snippets",
+		"CSS3",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"HTML5",
+		"jQuery",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"PackageResourceViewer",
+		"ProjectManager",
+		"Sass",
+		"SideBarEnhancements",
+		"WordPress",
+		"WordPress Completions",
+		"WordPress Snippets",
+		"WordpressDev",
+		"wpseek.com WordPress Developer Assistant"
+	]
+}
