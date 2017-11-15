@@ -1,0 +1,8 @@
+{
+
+    // If set to true, the package will search for a gulpfile.js file recursively through each top level folder
+    // ignoring the folders defined in `ignored_gulpfile_folders`.
+    // If false, only top level folders and the ones found on `gulpfile_paths` are used.
+    "recursive_gulpfile_search": true
+
+}

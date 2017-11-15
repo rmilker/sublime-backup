@@ -7,6 +7,7 @@
 	[
 		"Alignment",
 		"All Autocomplete",
+		"AutoBackups",
 		"Autoprefixer",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
@@ -17,6 +18,7 @@
 		"Emmet",
 		"FileDiffs",
 		"Git",
+		"Gulp",
 		"HTML5",
 		"jQuery",
 		"Nettuts+ Fetch",

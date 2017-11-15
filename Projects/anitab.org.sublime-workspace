@@ -112,181 +112,11 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/assets/js/common.js",
+			"file": "/C/Program Files (x86)/Ampps/www/ghcindiaschedule/wp-config.php",
 			"settings":
 			{
-				"buffer_size": 6097,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/header.php",
-			"settings":
-			{
-				"buffer_size": 15530,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc-gracehopper/header.php",
-			"settings":
-			{
-				"buffer_size": 11864,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/header.php",
-			"settings":
-			{
-				"buffer_size": 9540,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/page.php",
-			"settings":
-			{
-				"buffer_size": 2157,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/library/css/style.css",
-			"settings":
-			{
-				"buffer_size": 35374,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc-gracehopper/library/css/style.css",
-			"settings":
-			{
-				"buffer_size": 35062,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/library/css/style.css",
-			"settings":
-			{
-				"buffer_size": 34544,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/assets/css/common.css",
-			"settings":
-			{
-				"buffer_size": 68601,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/footer.php",
-			"settings":
-			{
-				"buffer_size": 1044,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/functions.php",
-			"settings":
-			{
-				"buffer_size": 15022,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc-gracehopper/functions.php",
-			"settings":
-			{
-				"buffer_size": 15584,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/functions.php",
-			"settings":
-			{
-				"buffer_size": 15202,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc-gracehopper/attachment.php",
-			"settings":
-			{
-				"buffer_size": 2712,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/attachment.php",
-			"settings":
-			{
-				"buffer_size": 2291,
+				"buffer_size": 3304,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/home.php",
-			"settings":
-			{
-				"buffer_size": 6202,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/assets/walker-nav-menu.php",
-			"settings":
-			{
-				"buffer_size": 1490,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-includes/link-template.php",
-			"settings":
-			{
-				"buffer_size": 135078,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc-gracehopper/footer.php",
-			"settings":
-			{
-				"buffer_size": 1097,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/footer.php",
-			"settings":
-			{
-				"buffer_size": 1096,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
 			}
 		}
 	],
@@ -298,9 +128,17 @@
 	"command_palette":
 	{
 		"height": 490.0,
-		"last_filter": "push",
+		"last_filter": "reset",
 		"selected_items":
 		[
+			[
+				"reset",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"pul",
+				"Git: Pull"
+			],
 			[
 				"push",
 				"Git: Push"
@@ -312,6 +150,38 @@
 			[
 				"ad",
 				"Git: Add..."
+			],
+			[
+				"git reset",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"res",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Stash Changes"
+			],
+			[
+				"git sta",
+				"Git: Stash Apply"
+			],
+			[
+				"git add",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"kil",
+				"Gulp: Kill running tasks"
 			],
 			[
 				"a",
@@ -350,10 +220,6 @@
 				"Git: Diff All Files"
 			],
 			[
-				"git add",
-				"Git: Add All"
-			],
-			[
 				"git cha",
 				"Git: Change Branch"
 			],
@@ -382,72 +248,98 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Program Files (x86)/Ampps/www/abimultisite",
-		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content",
-		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes",
-		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi",
-		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/library",
-		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/library/images"
 	],
 	"file_history":
 	[
+		"/C/Ampps/www/anitabsched/wp-config.php",
+		"/C/Ampps/www/anitabmulti/wp-content/assets/css/common.css",
+		"/C/Ampps/www/anitabmulti/wp-config.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/.htaccess",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-config.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/index.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/index.php",
+		"/C/Ampps/www/anitabmulti/wp-content/index.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/last-mod",
+		"/C/Ampps/www/anitabmulti/wp-content/debug.log",
+		"/C/Ampps/www/anitabmulti/fix.php",
+		"/C/Ampps/www/anitabmulti/.htaccess",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/footer.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc-gracehopper/footer.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-includes/link-template.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/assets/walker-nav-menu.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/home.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/attachment.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc-gracehopper/attachment.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/functions.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc-gracehopper/functions.php",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/abi-group-locations/functions.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-includes/category-template.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/front-page.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/plugins/gravityforms/includes/addon/class-gf-feed-addon.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/functions.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/footer.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/library/css/webfonts/ss-standard.css",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/assets/css/common.css",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/library/css/style.css",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc-gracehopper/library/css/style.css",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/page-landing-custom.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/page.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/assets/js/common.js",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/header.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc-gracehopper/header.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/header.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-admin/css/common.css",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/plugins/gravityformswebhooks/class-gf-webhooks.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/functions.php",
+		"/C/Users/Roman/Desktop/maintenance.html",
+		"/C/Users/Roman/Desktop/php.ini",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/C/Users/Roman/Downloads/Ftp devadmin@760credit.biz.xml",
+		"/C/Users/Roman/Desktop/maintenance-skeleton.html",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/.htaccess 2",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/.htaccess",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/front-page.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/library/css/style.css",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/abi-group-locations.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/class-bp-group-tab.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/functions 2.php",
 		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/common.js",
 		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/common.css",
 		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/3452E1_1D_0.woff2",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc/style.css",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/style.css",
-		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/home.php",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/archive-abi_upcoming_event.php",
-		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/footer.php",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc-gracehopper/front-page.php",
-		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/front-page.php",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/header.php",
-		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-admin/css/common.css",
-		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/assets/css/common.css",
-		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/functions.php",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/sidebar-blog.php",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/library/js/scripts.js",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc-gracehopper/library/js/scripts.js",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/library/js/scripts.js",
-		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/assets/walker-nav-menu.php",
 		"/C/Users/Roman/Google Drive/DEV/snippets/wordpress/add_menu_item.php",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/partials/calendar-excerpt.php",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/category-calendar.php",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc-gracehopper/category-calendar.php",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/partials/main-news-excerpt.php",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/partials/related-posts.php",
-		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/header.php",
-		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc-gracehopper/header.php",
-		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/assets/js/common.js",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc/library/css/style.css",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc-gracehopper/style.css",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/taxonomy-event_type.php",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/archive.php",
-		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc-gracehopper/footer.php",
-		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/functions.php",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc/header.php",
-		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/header.php",
-		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc-gracehopper/functions.php",
-		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/functions.php",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-includes/class-walker-nav-menu.php",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/plugins/the-conference-plugin/admin/update_show.php",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/library/bones.php",
-		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/library/css/style.css",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/plugins/gravityforms/includes/addon/class-gf-addon.php",
-		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/plugins/gravityforms/includes/addon/class-gf-feed-addon.php",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-includes/class-http.php",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-includes/http.php",
-		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/plugins/gravityformswebhooks/class-gf-webhooks.php",
-		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/functions 2.php",
-		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/page.php",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/files/styles-moc.css",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/partials/social-sharing.php",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/plugins/abi-multisite-common/abi-multisite-common.php",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/plugins/microkids-related-posts/microkids-related-posts.php",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/library/css/style copy.css",
-		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/style.css",
 		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/style 2.css",
-		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/wp-config.php",
 		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/wp-config 2.php",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc/front-page.php",
 		"/C/Users/Roman/Desktop/gravityplus-third-party-post.1.5.0/gravityplus-third-party-post/readme.txt",
@@ -474,9 +366,16 @@
 	},
 	"find_in_files":
 	{
-		"height": 117.0,
+		"height": 134.0,
 		"where_history":
 		[
+			"C:\\Program Files (x86)\\Ampps\\www\\abimultisite\\wp-content\\themes\\abi",
+			"C:\\Program Files (x86)\\Ampps\\www\\abimultisite\\wp-content\\plugins\\gravityforms",
+			"C:\\Program Files (x86)\\Ampps\\www\\abimultisite\\wp-content\\plugins\\gravityformswebhooks",
+			"C:\\Program Files (x86)\\Ampps\\www\\abimultisite\\wp-content\\themes\\abi",
+			"C:\\Program Files (x86)\\Ampps\\www\\abimultisite\\wp-content\\plugins\\gravityforms",
+			"C:\\Program Files (x86)\\Ampps\\www\\abimultisite\\wp-content\\plugins\\gravityformswebhooks",
+			"C:\\Program Files (x86)\\Ampps\\www\\abimultisite\\wp-content\\themes\\ghci",
 			"C:\\Program Files (x86)\\Ampps\\www\\abimultisite\\wp-content\\themes\\abi",
 			"C:\\Program Files (x86)\\Ampps\\www\\abimultisite\\wp-content\\themes\\ghc-gracehopper",
 			"C:\\Program Files (x86)\\Ampps\\www\\abimultisite\\wp-content\\themes",
@@ -506,6 +405,46 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".nav-menu > li >  a",
+			"abimultisite",
+			"page-template-page-landing-custom",
+			"page-template-page-landing",
+			"page-template",
+			"ss-standard.ttf",
+			"ss-standard",
+			"CURLOPT_TIMEOUT",
+			"alive",
+			"keep",
+			"sslverify",
+			"gform_is_feed_asynchronous",
+			"is_asynchronous",
+			"gform_is_feed_asynchronous",
+			"is_asynchronous",
+			"maybe_delay_feed",
+			"maybe_process_feed",
+			"thisPageIntro",
+			"featured",
+			"See all",
+			"thisPageIntro",
+			"subpage_peek",
+			"netsui",
+			"#site-footer .footer-content",
+			"#site-footer .footer-logo",
+			"65%",
+			"35",
+			"60",
+			"40",
+			"42",
+			"33",
+			"#site-footer .textwidget",
+			"center",
+			"55",
+			"45",
+			"#site-footer nav.main",
+			"flex-start",
+			"footer",
+			"content_url",
+			"footer",
 			".one-col",
 			".excerpt",
 			".one-col",
@@ -593,47 +532,7 @@
 			"#main",
 			"1041",
 			"1039",
-			"#banner",
-			"min-width: 1041px",
-			"body.archive #main",
-			".excerpt",
-			".landing-header",
-			"events",
-			"start_time",
-			"important",
-			"excerpt calendar-excerpt",
-			"calendar-excerpt",
-			"excerpt",
-			"excerpt-piece",
-			"excerpt",
-			".excerpt",
-			"excerpt",
-			"font-weight: 400",
-			"h2",
-			"MRP_get_related_posts",
-			"Microkid's Related Posts",
-			"table",
-			"network-links",
-			"network",
-			"#site-footer .wrapper",
-			"footer #footer-mission",
-			"#site-footer .textwidget",
-			"60",
-			"40",
-			"33",
-			"7",
-			"67",
-			"space-around",
-			"wrap",
-			"4",
-			"6",
-			"30",
-			"70",
-			"6",
-			"30",
-			"35",
-			"65",
-			"40"
+			"#banner"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -659,19 +558,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/assets/js/common.js",
+					"file": "/C/Program Files (x86)/Ampps/www/ghcindiaschedule/wp-config.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6097,
+						"buffer_size": 3304,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4050,
-								4050
+								0,
+								3304
 							]
 						],
 						"settings":
@@ -681,27 +580,12 @@
 							{
 								"close":
 								{
-									"1":
-									[
-										6094,
-										6095
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"brackethighlighter.default"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										2875,
-										2876
-									]
 								},
 								"unmatched":
 								{
@@ -709,51 +593,21 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
@@ -763,2154 +617,45 @@
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
-								"bh_double_quote_content"
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
 							],
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 763.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/header.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 15530,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								15344,
-								15344
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										15351,
-										15352
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/round_bracket.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										15053,
-										15054
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1902.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc-gracehopper/header.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11864,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								11063,
-								11063
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										11156,
-										11157
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/round_bracket.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										10866,
-										10867
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 6620.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 17,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/header.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9540,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6123,
-								5959
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 427.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 18,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/page.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2157,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								142,
-								142
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										141,
-										142
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/square_bracket.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										129,
-										130
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content"
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/library/css/style.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 35374,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								19636,
-								19636
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/CSS3/CSS3.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 19670.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc-gracehopper/library/css/style.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 35062,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								12734,
-								12734
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										12810,
-										12811
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										12733,
-										12734
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/CSS3/CSS3.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 11476.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/library/css/style.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 34544,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								12416,
-								12416
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										12570,
-										12571
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										12403,
-										12404
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content"
-							],
-							"syntax": "Packages/CSS3/CSS3.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 11655.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/assets/css/common.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 68601,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7298,
-								7298
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content"
-							],
-							"syntax": "Packages/CSS3/CSS3.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1650.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/footer.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1044,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								205,
-								205
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										663,
-										666
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/tag.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										206,
-										209
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content"
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/functions.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 15022,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								14111,
-								14111
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										14193,
-										14194
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										14079,
-										14080
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content"
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 8680.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 15,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc-gracehopper/functions.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 15584,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								961,
-								961
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 437.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 14,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/functions.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 15202,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								14046,
-								14046
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										15201,
-										15202
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										14044,
-										14045
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 295.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc-gracehopper/attachment.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2712,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								330,
-								330
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-									"1":
-									[
-										1663,
-										1671
-									]
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 42.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/attachment.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2291,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								256,
-								256
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										260,
-										261
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										215,
-										216
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
-					"type": "text"
-				},
-				{
-					"buffer": 15,
-					"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/abi/home.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6202,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1336,
-								1336
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-									"1":
-									[
-										1690,
-										1698
-									]
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content"
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 352.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 16,
-					"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/assets/walker-nav-menu.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1490,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								927,
-								927
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										1484,
-										1485
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										130,
-										131
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 16,
-					"type": "text"
-				},
-				{
-					"buffer": 17,
-					"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-includes/link-template.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 135078,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								110069,
-								110069
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content"
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 77128.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 19,
-					"type": "text"
-				},
-				{
-					"buffer": 18,
-					"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghc-gracehopper/footer.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1097,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								797,
-								797
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 19,
-					"file": "/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/themes/ghci/footer.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1096,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								385,
-								385
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										792,
-										795
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/tag.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										377,
-										380
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
 					"type": "text"
 				}
 			]
@@ -2953,7 +698,15 @@
 	},
 	"output.git":
 	{
-		"height": 167.0
+		"height": 148.0
+	},
+	"output.gulp_output":
+	{
+		"height": 260.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
 	},
 	"output.unsaved_changes":
 	{
@@ -2973,16 +726,40 @@
 		"selected_items":
 		[
 			[
+				"assets/comm",
+				"wp-content\\assets\\css\\common.css"
+			],
+			[
+				"common.c",
+				"wp-admin\\css\\common.css"
+			],
+			[
+				"functions",
+				"wp-content\\themes\\abi\\functions.php"
+			],
+			[
+				"library/style",
+				"wp-content\\themes\\ghci\\library\\css\\style.css"
+			],
+			[
+				"library/style.c",
+				"wp-content\\themes\\ghc-gracehopper\\library\\css\\style.css"
+			],
+			[
+				"footer",
+				"wp-content\\themes\\ghci\\footer.php"
+			],
+			[
+				"library/sty",
+				"wp-content\\themes\\abi\\library\\css\\style.css"
+			],
+			[
 				"home.",
 				"wp-content\\themes\\abi\\home.php"
 			],
 			[
 				"",
 				"wp-content\\assets\\css\\common.css"
-			],
-			[
-				"footer",
-				"wp-content\\themes\\ghc-gracehopper\\footer.php"
 			],
 			[
 				"common.",
@@ -3013,16 +790,8 @@
 				"wp-content\\themes\\abi\\header.php"
 			],
 			[
-				"functions",
-				"wp-content\\themes\\abi\\functions.php"
-			],
-			[
 				"footer.php",
 				"wp-content\\themes\\ghc-gracehopper\\footer.php"
-			],
-			[
-				"library/style",
-				"wp-content\\themes\\abi\\library\\css\\style.css"
 			],
 			[
 				"fotoer",
@@ -3115,7 +884,7 @@
 		[
 			[
 				"",
-				"C:\\Users\\Roman\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Projects\\community.anitab.org.sublime-project"
+				"C:\\Users\\Roman\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Projects\\GHC Schedule.sublime-project"
 			]
 		],
 		"width": 475.0

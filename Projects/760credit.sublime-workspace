@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"fusion-mobile",
+				"fusion-mobile-nav-holder"
+			],
+			[
+				"first-",
+				"first-of-type"
+			],
+			[
+				"comm-",
+				"comm-section-header\tComment - Section header comment"
+			],
+			[
+				"commsec",
+				"comm-section-header\tComment - Section header comment"
+			],
+			[
+				"comm-h",
+				"comm-html-header\tComment - HTML section header"
+			],
+			[
 				"ob_",
 				"ob_end_flush\t(functions.php)"
 			],
@@ -120,29 +144,86 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Ampps/www/anitabcommunity/wp-content/themes/abi-dot-local/functions.php",
+			"file": "/C/Program Files (x86)/Ampps/www/760credit/wp-content/themes/760-Credit-Theme/templates/title-bar.php",
 			"settings":
 			{
-				"buffer_size": 148026,
+				"buffer_size": 2072,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Ampps/www/anitabcommunity/wp-content/themes/abi-dot-local/css/custom.css",
+			"file": "/C/Program Files (x86)/Ampps/www/760credit/wp-content/themes/Avada/templates/title-bar.php",
 			"settings":
 			{
-				"buffer_size": 156767,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Ampps/www/anitabcommunity/wp-config.php",
-			"settings":
-			{
-				"buffer_size": 3196,
+				"buffer_size": 1884,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/760credit/wp-includes/kses.php",
+			"settings":
+			{
+				"buffer_size": 50258,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/760credit/wp-content/themes/Avada/includes/lib/inc/functions.php",
+			"settings":
+			{
+				"buffer_size": 27376,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/760credit/wp-content/themes/Avada/includes/class-avada-breadcrumbs.php",
+			"settings":
+			{
+				"buffer_size": 22331,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/760credit/wp-content/themes/Avada/includes/avada-functions.php",
+			"settings":
+			{
+				"buffer_size": 57540,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/760credit/wp-content/themes/Avada/templates/blog-layout.php",
+			"settings":
+			{
+				"buffer_size": 11762,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Roman/Google Drive/DEV/snippets/js/google_maps.php",
+			"settings":
+			{
+				"buffer_size": 982,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/760credit/wp-includes/post-template.php",
+			"settings":
+			{
+				"buffer_size": 58543,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Program Files (x86)/Ampps/www/760credit/wp-content/themes/760-Credit-Theme/functions.php",
+			"settings":
+			{
+				"buffer_size": 9501,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -170,20 +251,16 @@
 				"Git: Add..."
 			],
 			[
-				"git res",
-				"Git: Reset (hard) HEAD"
+				"pus",
+				"Git: Push"
 			],
 			[
-				"kil",
-				"Gulp: Kill running tasks"
+				"ad pro",
+				"Project Manager: Add New Project"
 			],
 			[
-				"kill",
-				"Gulp: Kill running tasks"
-			],
-			[
-				"qu",
-				"Git: Quick Commit (repo)"
+				"new pro",
+				"Project Manager: Add New Project"
 			],
 			[
 				"git push",
@@ -293,9 +370,33 @@
 	],
 	"file_history":
 	[
-		"/C/Ampps/phpMyAdmin/config.inc.php",
-		"/C/Ampps/www/anitabcommunity/wp-content/advanced-cache.php",
-		"/C/Ampps/www/anitabmulti/.htaccess",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/fusion-gallery.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/functions.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/Program Files (x86)/Ampps/www/760credit/wp-includes/query.php",
+		"/C/Program Files (x86)/Ampps/www/760credit/wp-content/themes/Avada/includes/lib/inc/class-fusion-images.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/debug.log",
+		"/C/Program Files (x86)/Ampps/www/760credit/wp-content/plugins/fusion-builder/inc/helpers.php",
+		"/C/Program Files (x86)/Ampps/www/760credit/wp-content/plugins/fusion-builder/fusion-builder.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/php_mail.log",
+		"/C/Program Files (x86)/Ampps/www/760credit/wp-content/themes/760-Credit-Theme/templates/related-posts.php",
+		"/C/Program Files (x86)/Ampps/www/760credit/wp-content/themes/760-Credit-Theme/style.css",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/wp-config 2.php",
+		"/C/Program Files (x86)/Ampps/www/760credit/wp-content/themes/Avada/includes/lib/inc/functions.php",
+		"/C/Program Files (x86)/Ampps/www/760credit/wp-includes/category-template.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/functions.js",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/archive.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/page-contact.php",
+		"/C/Users/Roman/Google Drive/DEV/snippets/js/google_maps.js",
+		"/C/Users/Roman/Desktop/sites.xml",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/title-bar.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/functions 2.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/page-org-overview.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/admin-review-pac.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/admin-review-org.php",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/admin-pending-reviews.php",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/buddypress/bp-blogs/bp-blogs-activity.php",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/assets/js/common.js",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/buddypress/bp-notifications/bp-notifications-functions.php",
@@ -308,63 +409,42 @@
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/woocommerce/emails/email-header.php",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/js/cities-page-scripts.js",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/js/custom-scripts.js",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/footer.php",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/js/abi-script.js",
+		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/abi-group-locations.php",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/buddyboss/buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/buddyboss/buddyboss-inc/buddyboss-customizer/js/buddyboss-customizer.js",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/buddyboss-media/assets/js/buddyboss-media.js",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/abi-group-locations/abi-group-locations.php",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/abi-group-locations/functions.php",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/cities.php",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/tribe-events/month/content.php",
 		"/C/Program Files (x86)/Ampps/www/abimultisite/wp-content/assets/css/common.css",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/css/custom.css",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/js/abi-script.js",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-includes/functions.wp-scripts.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/includes/blog.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/tribe-events/default-template.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/sidebar-buddypress.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/the-events-calendar/src/functions/template-tags/general.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/header.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-includes/user.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/buddypress/members/members-loop.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/templates/cities-map.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/tribe-events/month/content.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/cities.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/abi-group-locations/functions.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/buddypress-groups-extras/core/loader.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/buddypress/groups/single/home.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/buddypress/bp-core/bp-core-template.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/abi-group-locations/abi-group-locations.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/buddyboss-media/assets/js/buddyboss-media.js",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/buddyboss/buddyboss-inc/buddyboss-customizer/js/buddyboss-customizer.js",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/buddyboss/buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/functions.php",
-		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/wp-config.php",
-		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/functions 2.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/buddypress-groups-extras/core/admin.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/buddypress-groups-extras/views/front/display_gpages_nav.php",
-		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/functions.php",
-		"/C/Users/Roman/Desktop/readme.txt",
-		"/C/Users/Roman/Desktop/buddyboss.zip",
-		"/C/Users/Roman/AppData/Local/Temp/Temp1_buddyboss.zip/buddyboss/style.css",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/default-template.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/functions-extend.php",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/buddypress-edit-activity/includes/main-class.php",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/buddyboss-media/includes/types/photo-class.php",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/buddypress/activity/post-form.php",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/buddyboss-media/includes/media-edit-activity.php",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/functions-extend.php",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/the-events-calendar/src/resources/js/tribe-events-ajax-calendar.js",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/the-events-calendar/src/resources/js/tribe-events.js",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/the-events-calendar/src/Tribe/Template/Month.php",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/the-events-calendar/src/Tribe/Template_Factory.php",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/the-events-calendar/src/functions/template-tags/general.php",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/the-events-calendar/src/Tribe/Query.php",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/event-tickets-plus/src/Tribe/Attendees_List.php",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/event-tickets-plus/src/Tribe/Tickets.php",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/event-tickets-plus/src/views/tickets-plus/orders-tickets.php",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/css/admin-custom.css",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/event-tickets/src/Tribe/Tickets.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/buddypress.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/buddypress/bp-templates/bp-legacy/js/buddypress.js",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/buddyboss-wall/includes/wall-hooks.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/buddypress/bp-templates/bp-legacy/buddypress-functions.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/buddyboss-wall/includes/wall-class.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/userpress/wiki/wiki-include.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/buddyboss-wall/assets/js/buddyboss-wall.js",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/templates/cities-map.php",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/buddypress/members/members-loop.php",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/includes/user-feed.php",
-		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/abi-group-locations.php",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/buddypress/bp-core/bp-core-template.php",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-includes/user.php",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/userpress/wiki/wiki-include.php",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/functions.php",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/footer.php",
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/header.php",
 		"/C/Program Files (x86)/Ampps/www/bookcapture/wp-config.php",
 		"/C/Users/Roman/Google Drive/DEV/snippets/js/calculate-distance-between-two-geopoints.js",
 		"/C/Users/Roman/Google Drive/DEV/snippets/wordpress/admin_custom_options_page.php",
@@ -383,7 +463,6 @@
 		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/content.php",
 		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/cities-page-scripts.js",
 		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/wp-config 3.php",
-		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/wp-config 2.php",
 		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/custom.css",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/includes/invite.php",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/tribe-events/extend.php",
@@ -410,7 +489,6 @@
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/abilocal-core/include/Horde/Mail/Rfc822/List.php",
 		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/header-section.php",
 		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/header.php",
-		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/style.css",
 		"/C/Users/Roman/AppData/Local/Temp/fz3temp-2/navigation.php",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/uploads/js_composer/custom.css",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/the-events-calendar/src/views/month.php",
@@ -419,8 +497,7 @@
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/the-events-calendar/src/views/month/single-event.php",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/the-events-calendar/common/src/resources/js/dropdowns.js",
 		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/tribe-events/single-event.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/tribe-events/filter-bar/filter-view-horizontal.php",
-		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/plugins/the-events-calendar-filterbar/src/views/filter-bar/filter-view-horizontal.php"
+		"/C/Program Files (x86)/Ampps/www/anitaborg/wp-content/themes/abi-dot-local/tribe-events/filter-bar/filter-view-horizontal.php"
 	],
 	"find":
 	{
@@ -431,25 +508,12 @@
 		"height": 134.0,
 		"where_history":
 		[
-			"C:\\Program Files (x86)\\Ampps\\www\\anitaborg\\wp-content\\plugins\\buddypress-groups-extras",
-			"C:\\Program Files (x86)\\Ampps\\www\\anitaborg\\wp-content\\plugins\\",
-			"C:\\Program Files (x86)\\Ampps\\www\\anitaborg\\wp-content\\themes\\abi-dot-local",
-			"C:\\Program Files (x86)\\Ampps\\www\\anitaborg\\wp-content\\plugins\\buddypress-groups-extras",
-			"C:\\Program Files (x86)\\Ampps\\www\\anitaborg\\wp-content\\themes\\abi-dot-local",
-			"C:\\Program Files (x86)\\Ampps\\www\\anitaborg\\wp-content\\plugins\\abilocal-core",
-			"C:\\Program Files (x86)\\Ampps\\www\\anitaborg\\wp-content\\themes\\abi-dot-local",
-			"C:\\Program Files (x86)\\Ampps\\www\\anitaborg\\wp-content\\plugins\\",
-			"C:\\Program Files (x86)\\Ampps\\www\\anitaborg\\wp-content\\themes\\abi-dot-local",
-			"C:\\Program Files (x86)\\Ampps\\www\\anitaborg\\",
-			"C:\\Program Files (x86)\\Ampps\\www\\anitaborg\\wp-content\\plugins",
-			"C:\\Program Files (x86)\\Ampps\\www\\anitaborg\\wp-content\\plugins\\buddyboss-wall",
-			"C:\\Program Files (x86)\\Ampps\\www\\anitaborg\\wp-content\\themes\\abi-dot-local",
-			"C:\\Program Files (x86)\\Ampps\\www\\anitaborg\\wp-content\\plugins\\buddypress",
-			"C:\\Program Files (x86)\\Ampps\\www\\anitaborg\\wp-content\\plugins\\buddyboss-wall",
-			"C:\\Program Files (x86)\\Ampps\\www\\anitaborg\\wp-content\\plugins\\buddypress",
-			"C:\\Program Files (x86)\\Ampps\\www\\anitaborg\\wp-content\\themes\\abi-dot-local",
-			"C:\\Program Files (x86)\\Ampps\\www\\anitaborg\\",
-			"C:\\Program Files (x86)\\Ampps\\www\\anitaborg\\wp-content\\plugins\\userpress",
+			"C:\\Program Files (x86)\\Ampps\\www\\760credit\\wp-content\\themes\\Avada",
+			"C:\\Program Files (x86)\\Ampps\\www\\760credit\\wp-content\\plugins\\fusion-builder",
+			"C:\\Program Files (x86)\\Ampps\\www\\760credit\\wp-content\\plugins",
+			"C:\\Program Files (x86)\\Ampps\\www\\760credit\\wp-content\\plugins\\fusion-core",
+			"C:\\Program Files (x86)\\Ampps\\www\\760credit\\wp-content\\plugins\\fusion-builder",
+			"C:\\Program Files (x86)\\Ampps\\www\\760credit\\wp-content\\themes\\Avada",
 			"C:\\Program Files (x86)\\Ampps\\www\\anitaborg\\wp-content\\plugins",
 			"C:\\Program Files (x86)\\Ampps\\www\\anitaborg\\wp-content\\themes\\buddyboss",
 			"C:\\Program Files (x86)\\Ampps\\www\\anitaborg\\wp-content\\plugins\\buddyboss-wall",
@@ -534,92 +598,64 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"abi_get_members_without_group",
+			"1px",
+			"image",
+			"link_attr",
+			"image_data",
+			"fusion_is_element_enabled",
+			"masonry_wrapper_attr",
+			"image_data",
+			"masonry_wrapper_attr",
+			"attr",
+			"fusion_attr_",
+			"masonry",
+			"gallery-shortcode-masonry-wrapper",
+			"fusion-masonry-element-container",
+			"<pre",
+			"num_of_columns",
+			"total_num_of_columns",
+			"image_data",
+			"Pearce_FusionSC_FusionGallery",
+			"Pearse_FusionSC_FusionGallery",
+			"image_data",
+			"$image_html",
+			"FusionSC_FusionGallery",
+			"fusion_element_gallery",
+			"show_titles",
+			"titles",
+			"render",
+			"masonry_wrapper_attr",
+			"link_attr",
+			"filter",
+			"fusion-grid-",
+			"fusion-gallery",
+			"fusion-gallery-image",
+			"update",
+			"blog_title",
+			"page_title_bar_bs",
+			"subtitle",
+			"rel",
+			"get_the_category_list",
+			"fusion-single-line-meta",
+			"title",
+			"entry-title fusion-post-title",
+			"current_date",
+			"avada_render_blog_post_content",
+			"fusion-post-content-wrapper",
+			"fusion-post-content-container",
+			"preventDefault",
+			"#read-more",
+			"7118",
 			"joyride",
-			"888b8d",
-			".tribe-events-list .tribe-events-loop .tribe-events-content",
-			"die",
-			"groups_update_groupmeta",
-			"'bpge",
-			"bpge",
-			"get_groupmeta",
-			"get_group",
-			"gpage_name",
-			"meta",
-			"bpge_template_display_gpages_nav_after",
-			"bp_core_new_subnav_item",
-			"bpge_create_screen",
-			"gpages_screen_nav",
-			"bp_core_new_subnav_item",
-			"manage_columns_content",
-			"gpages",
-			"bp_get_options_nav_",
-			"item-list-tabs",
-			"about",
-			"ABI.",
-			"joyride",
-			"emma",
-			"100% !im",
-			"#buddypress #members-list li img.avatar",
-			"emma",
-			"tribe_events_list",
-			"widget tribe-events-adv-list-widget",
-			"event_organizer_brand_image",
-			"Event Organizer Branding",
-			"class=\"link\"",
-			"Organizer Content",
-			"tribe-events-event-image",
-			"tribe-organizer-name",
-			"tribe-events-pg-template",
-			"tribe_events_before_html",
-			"group-.name",
-			"extend",
-			"extend.php",
-			"BugHerd",
-			"group->slug",
-			"organizer",
-			"abi_get_query",
-			"group->name",
-			"group-.name",
-			"5",
-			"calc(100%/3*2)",
-			"calc(100%/3)",
-			"footer",
-			"#site-footer .footer-inner",
-			"li > a::after",
-			".menu-abi-main-container > ul > li",
-			"::before",
-			"position: relative",
-			".menu-abi-main-container > ul > li",
-			".menu-abi-main-container ul > li.menu-item-has-children",
-			"analytics_debug.js",
-			"mixpanel.name_tag",
-			"manifest",
-			"assets",
-			"enqueue",
-			"enqueu",
-			"BP_DTheme",
-			"enqueue_scripts",
-			"bp_enqueue_scripts",
-			"enqueue_scripts",
-			"BP_DTheme",
-			"buddyboss-js",
-			"dequeue",
-			"theme",
-			"wp_footer",
-			"group-cover-photo",
-			"dtheme-ajax-js",
-			"bp-legacy-js",
-			"enqueu",
-			"joyride",
-			"FontFaceOnload",
-			"typekit",
-			"up546E_foundation_js_init",
-			"userpress",
-			"userpress_foundation_js",
-			"up546E_foundation_js_init",
-			"jQuery(document).foundation()",
-			"userpress_wiki_js",
+			"nemail",
+			"email",
+			"table",
+			"mail",
+			"@",
+			"wp_mail",
+			"email",
+			"horizonsfoundation.org",
+			"entry",
 			"wp_enqueue_scripts",
 			"userpress_foundation_js",
 			"foundation",
@@ -661,7 +697,35 @@
 			"freshwidget",
 			"freshwidget.js",
 			"city-page",
-			"joyrideFeaturedGroup"
+			"joyrideFeaturedGroup",
+			"|| bp_is",
+			"cities",
+			"joyride-next-tip",
+			"joyride",
+			"beta",
+			"min-width:",
+			"min-width: 120",
+			".tribe-events-filters-horizontal #tribe_events_filter_control",
+			".tribe-events-filters-horizontal #tribe_events_filters_form",
+			"group_tips_step",
+			"#tribe-events-bar",
+			"bp_is_group",
+			"tryAPIGeolocation",
+			"getCurrentPosition",
+			"joyride",
+			"tryAPIGeolocation",
+			"geoFail",
+			"api_key",
+			"get_option",
+			"cities_",
+			"user_location",
+			"template",
+			"cities",
+			"joyride",
+			"geolocation",
+			"getCurrentPosition",
+			"getCurrentPositio",
+			"joyride"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -685,24 +749,24 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Ampps/www/anitabcommunity/wp-content/themes/abi-dot-local/functions.php",
+					"file": "/C/Program Files (x86)/Ampps/www/760credit/wp-content/themes/760-Credit-Theme/templates/title-bar.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 148026,
+						"buffer_size": 2072,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								432,
-								432
+								1070,
+								1070
 							]
 						],
 						"settings":
@@ -714,24 +778,142 @@
 								{
 									"1":
 									[
-										952,
-										953
+										1246,
+										1251
 									]
 								},
 								"icon":
 								{
 									"1":
 									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
+										"Packages/BracketHighlighter/icons/dot.png",
+										"region.yellowish brackethighlighter.default"
 									]
 								},
 								"open":
 								{
 									"1":
 									[
-										402,
-										403
+										814,
+										816
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 93.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Program Files (x86)/Ampps/www/760credit/wp-content/themes/Avada/templates/title-bar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1884,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								799,
+								799
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1027,
+										1032
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/dot.png",
+										"region.yellowish brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										608,
+										610
 									]
 								},
 								"unmatched":
@@ -797,31 +979,339 @@
 								"bh_square_content"
 							],
 							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 66.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "/C/Ampps/www/anitabcommunity/wp-content/themes/abi-dot-local/css/custom.css",
+					"buffer": 2,
+					"file": "/C/Program Files (x86)/Ampps/www/760credit/wp-includes/kses.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 156767,
+						"buffer_size": 50258,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								15261,
-								15261
+								44185,
+								44185
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2607.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Program Files (x86)/Ampps/www/760credit/wp-content/themes/Avada/includes/lib/inc/functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27376,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								347,
+								347
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Program Files (x86)/Ampps/www/760credit/wp-content/themes/Avada/includes/class-avada-breadcrumbs.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9672,
+								9672
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 130.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Program Files (x86)/Ampps/www/760credit/wp-content/themes/Avada/includes/avada-functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 57540,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								380,
+								380
 							]
 						],
 						"settings":
@@ -833,8 +1323,229 @@
 								{
 									"1":
 									[
-										15260,
-										15261
+										407,
+										408
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										376,
+										377
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 64.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Program Files (x86)/Ampps/www/760credit/wp-content/themes/Avada/templates/blog-layout.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11762,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								490,
+								490
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/Roman/Google Drive/DEV/snippets/js/google_maps.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 982,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								235,
+								235
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										359,
+										360
 									]
 								},
 								"icon":
@@ -849,8 +1560,8 @@
 								{
 									"1":
 									[
-										15145,
-										15146
+										234,
+										235
 									]
 								},
 								"unmatched":
@@ -859,26 +1570,16 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
@@ -889,58 +1590,68 @@
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
-							"syntax": "Packages/CSS3/CSS3.sublime-syntax",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 12354.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "/C/Ampps/www/anitabcommunity/wp-config.php",
-					"semi_transient": true,
+					"buffer": 8,
+					"file": "/C/Program Files (x86)/Ampps/www/760credit/wp-includes/post-template.php",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3196,
+						"buffer_size": 58543,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2385,
-								2385
+								994,
+								994
 							]
 						],
 						"settings":
@@ -963,26 +1674,16 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
@@ -993,39 +1694,154 @@
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 354.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Program Files (x86)/Ampps/www/760credit/wp-content/themes/760-Credit-Theme/functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7928,
+								7928
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
-								"bh_square_content"
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1188.0,
+						"translation.y": 371.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -1068,22 +1884,18 @@
 	},
 	"output.git":
 	{
-		"height": 111.0
+		"height": 158.0
 	},
 	"output.gulp_output":
 	{
-		"height": 199.0
+		"height": 181.0
 	},
 	"output.mdpopups":
 	{
 		"height": 0.0
 	},
-	"output.unsaved_changes":
-	{
-		"height": 142.0
-	},
 	"pinned_build_system": "",
-	"project": "community.anitab.org.sublime-project",
+	"project": "760credit.sublime-project",
 	"replace":
 	{
 		"height": 59.0
@@ -1095,30 +1907,6 @@
 		"last_filter": "",
 		"selected_items":
 		[
-			[
-				"custom.css",
-				"wp-content\\themes\\abi-dot-local\\css\\custom.css"
-			],
-			[
-				"functions-e",
-				"wp-content\\themes\\abi-dot-local\\functions-extend.php"
-			],
-			[
-				"functions.",
-				"wp-content\\themes\\abi-dot-local\\functions.php"
-			],
-			[
-				"footer",
-				"wp-content\\themes\\abi-dot-local\\footer.php"
-			],
-			[
-				"header.",
-				"wp-content\\themes\\abi-dot-local\\header.php"
-			],
-			[
-				"functions",
-				"wp-content\\themes\\abi-dot-local\\functions.php"
-			],
 			[
 				"function",
 				"wp-content\\themes\\abi-dot-local\\functions.php"
@@ -1144,8 +1932,24 @@
 				"wp-content\\themes\\abi-dot-local\\css\\custom.css"
 			],
 			[
+				"custom.css",
+				"wp-content\\themes\\abi-dot-local\\css\\custom.css"
+			],
+			[
 				"admin-custom.js",
 				"wp-content\\themes\\abi-dot-local\\js\\admin-custom.js"
+			],
+			[
+				"functions",
+				"wp-content\\themes\\abi-dot-local\\functions.php"
+			],
+			[
+				"functions-e",
+				"wp-content\\themes\\abi-dot-local\\functions-extend.php"
+			],
+			[
+				"footer",
+				"wp-content\\themes\\abi-dot-local\\footer.php"
 			],
 			[
 				"header",
@@ -1166,6 +1970,14 @@
 			[
 				"abis-",
 				"wp-content\\themes\\abi-dot-local\\js\\abi-script.js"
+			],
+			[
+				"header.",
+				"wp-content\\themes\\abi-dot-local\\header.php"
+			],
+			[
+				"functions.",
+				"wp-content\\themes\\abi-dot-local\\functions.php"
 			],
 			[
 				"common",
